@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/169/trunk/Examples/URLShortenerSample
+END
+main.m
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/23/trunk/Examples/URLShortenerSample/main.m
+END
+URLShortenerSampleWindowController.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/23/trunk/Examples/URLShortenerSample/URLShortenerSampleWindowController.h
+END
+Info.plist
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/23/trunk/Examples/URLShortenerSample/Info.plist
+END
+URLShortenerSampleWindowController.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/169/trunk/Examples/URLShortenerSample/URLShortenerSampleWindowController.m
+END
+URLShortenerAppController.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/23/trunk/Examples/URLShortenerSample/URLShortenerAppController.h
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/23/trunk/Examples/URLShortenerSample/README.txt
+END
+URLShortenerAppController.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/23/trunk/Examples/URLShortenerSample/URLShortenerAppController.m
+END
+buildStripHeaders
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/23/trunk/Examples/URLShortenerSample/buildStripHeaders
+END

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>title</key>
+	<string>Post Office</string>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>isStaticText</key>
+			<true/>
+			<key>label</key>
+			<string>Google Authentication</string>
+			<key>footerText</key>
+			<string>You must login using your Google+ account in order to use Post Office.</string>
+		</dict>
+		<dict>
+			<key>action</key>
+			<string>showGoogleSignin:</string>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>label</key>
+			<string>Sign in</string>
+		</dict>
+		<dict>
+			<key>action</key>
+			<string>signout:</string>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>label</key>
+			<string>Sign out</string>
+		</dict>
+		<dict>
+			<key>footerText</key>
+			<string>© 2013 Adam Bell</string>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>isStaticText</key>
+			<true/>
+			<key>label</key>
+			<string></string>
+		</dict>
+	</array>
+</dict>
+</plist>

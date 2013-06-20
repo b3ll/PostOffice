@@ -1,0 +1,401 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/225/trunk/Source/Services/Orkut/Generated
+END
+GTLOrkutActivityList.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/82/trunk/Source/Services/Orkut/Generated/GTLOrkutActivityList.m
+END
+GTLOrkutCommunityPollCommentList.m
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/135/trunk/Source/Services/Orkut/Generated/GTLOrkutCommunityPollCommentList.m
+END
+GTLOrkutLinkResource.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/124/trunk/Source/Services/Orkut/Generated/GTLOrkutLinkResource.h
+END
+GTLOrkutLinkResource.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/82/trunk/Source/Services/Orkut/Generated/GTLOrkutLinkResource.m
+END
+GTLOrkutCommunitypolloptionResource.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/135/trunk/Source/Services/Orkut/Generated/GTLOrkutCommunitypolloptionResource.h
+END
+GTLOrkutActivityobjectsResource.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/138/trunk/Source/Services/Orkut/Generated/GTLOrkutActivityobjectsResource.h
+END
+GTLOrkut.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/135/trunk/Source/Services/Orkut/Generated/GTLOrkut.h
+END
+GTLOrkutCommunitypolloptionResource.m
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/135/trunk/Source/Services/Orkut/Generated/GTLOrkutCommunitypolloptionResource.m
+END
+GTLOrkutActivityobjectsResource.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/138/trunk/Source/Services/Orkut/Generated/GTLOrkutActivityobjectsResource.m
+END
+GTLOrkutCommunity.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/145/trunk/Source/Services/Orkut/Generated/GTLOrkutCommunity.h
+END
+GTLOrkutCommunity.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/135/trunk/Source/Services/Orkut/Generated/GTLOrkutCommunity.m
+END
+GTLOrkutCommunityMessage.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/135/trunk/Source/Services/Orkut/Generated/GTLOrkutCommunityMessage.h
+END
+GTLOrkutActivitypersonResource.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/124/trunk/Source/Services/Orkut/Generated/GTLOrkutActivitypersonResource.h
+END
+GTLOrkutBadgeList.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/124/trunk/Source/Services/Orkut/Generated/GTLOrkutBadgeList.h
+END
+GTLOrkutCommunityMessage.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/135/trunk/Source/Services/Orkut/Generated/GTLOrkutCommunityMessage.m
+END
+GTLOrkutCommunityMembers.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/135/trunk/Source/Services/Orkut/Generated/GTLOrkutCommunityMembers.h
+END
+GTLOrkutActivitypersonResource.m
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/82/trunk/Source/Services/Orkut/Generated/GTLOrkutActivitypersonResource.m
+END
+GTLServiceOrkut.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/82/trunk/Source/Services/Orkut/Generated/GTLServiceOrkut.h
+END
+GTLOrkutCounters.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/124/trunk/Source/Services/Orkut/Generated/GTLOrkutCounters.h
+END
+GTLOrkutComment.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/124/trunk/Source/Services/Orkut/Generated/GTLOrkutComment.h
+END
+GTLOrkutBadgeList.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/82/trunk/Source/Services/Orkut/Generated/GTLOrkutBadgeList.m
+END
+GTLOrkutCommunityMembers.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/135/trunk/Source/Services/Orkut/Generated/GTLOrkutCommunityMembers.m
+END
+GTLServiceOrkut.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/135/trunk/Source/Services/Orkut/Generated/GTLServiceOrkut.m
+END
+GTLQueryOrkut.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/147/trunk/Source/Services/Orkut/Generated/GTLQueryOrkut.h
+END
+GTLOrkutComment.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/82/trunk/Source/Services/Orkut/Generated/GTLOrkutComment.m
+END
+GTLOrkutCounters.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/82/trunk/Source/Services/Orkut/Generated/GTLOrkutCounters.m
+END
+GTLOrkutAuthorResource.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/145/trunk/Source/Services/Orkut/Generated/GTLOrkutAuthorResource.h
+END
+GTLQueryOrkut.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/138/trunk/Source/Services/Orkut/Generated/GTLQueryOrkut.m
+END
+GTLOrkutCommunityPoll.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/135/trunk/Source/Services/Orkut/Generated/GTLOrkutCommunityPoll.h
+END
+GTLOrkutAuthorResource.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/82/trunk/Source/Services/Orkut/Generated/GTLOrkutAuthorResource.m
+END
+GTLOrkutCommunityPoll.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/135/trunk/Source/Services/Orkut/Generated/GTLOrkutCommunityPoll.m
+END
+GTLOrkutCommunityTopic.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/135/trunk/Source/Services/Orkut/Generated/GTLOrkutCommunityTopic.h
+END
+GTLOrkutCommunityTopic.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/135/trunk/Source/Services/Orkut/Generated/GTLOrkutCommunityTopic.m
+END
+GTLOrkutActivity.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/124/trunk/Source/Services/Orkut/Generated/GTLOrkutActivity.h
+END
+GTLOrkutCommunityPollComment.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/135/trunk/Source/Services/Orkut/Generated/GTLOrkutCommunityPollComment.h
+END
+GTLOrkutAcl.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/124/trunk/Source/Services/Orkut/Generated/GTLOrkutAcl.h
+END
+GTLOrkutActivity.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/82/trunk/Source/Services/Orkut/Generated/GTLOrkutActivity.m
+END
+GTLOrkutCommunityPollComment.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/135/trunk/Source/Services/Orkut/Generated/GTLOrkutCommunityPollComment.m
+END
+GTLOrkutAcl.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/82/trunk/Source/Services/Orkut/Generated/GTLOrkutAcl.m
+END
+GTLOrkutCommunityPollVote.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/135/trunk/Source/Services/Orkut/Generated/GTLOrkutCommunityPollVote.h
+END
+GTLOrkutCommunityPollVote.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/135/trunk/Source/Services/Orkut/Generated/GTLOrkutCommunityPollVote.m
+END
+GTLOrkutCommunityList.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/135/trunk/Source/Services/Orkut/Generated/GTLOrkutCommunityList.h
+END
+GTLOrkutCommunityMessageList.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/135/trunk/Source/Services/Orkut/Generated/GTLOrkutCommunityMessageList.h
+END
+GTLOrkutCommunityList.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/135/trunk/Source/Services/Orkut/Generated/GTLOrkutCommunityList.m
+END
+GTLOrkutCounterResource.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/138/trunk/Source/Services/Orkut/Generated/GTLOrkutCounterResource.h
+END
+GTLOrkutVisibility.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/124/trunk/Source/Services/Orkut/Generated/GTLOrkutVisibility.h
+END
+GTLOrkutCommunityMessageList.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/135/trunk/Source/Services/Orkut/Generated/GTLOrkutCommunityMessageList.m
+END
+GTLOrkutCommunityMembersList.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/135/trunk/Source/Services/Orkut/Generated/GTLOrkutCommunityMembersList.h
+END
+GTLOrkutVisibility.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/82/trunk/Source/Services/Orkut/Generated/GTLOrkutVisibility.m
+END
+GTLOrkutCounterResource.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/82/trunk/Source/Services/Orkut/Generated/GTLOrkutCounterResource.m
+END
+GTLOrkutCommentList.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/124/trunk/Source/Services/Orkut/Generated/GTLOrkutCommentList.h
+END
+GTLOrkutCommunityMembersList.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/135/trunk/Source/Services/Orkut/Generated/GTLOrkutCommunityMembersList.m
+END
+GTLOrkutBadge.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/124/trunk/Source/Services/Orkut/Generated/GTLOrkutBadge.h
+END
+GTLOrkutCommentList.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/82/trunk/Source/Services/Orkut/Generated/GTLOrkutCommentList.m
+END
+GTLOrkutCommunityMembershipStatus.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/135/trunk/Source/Services/Orkut/Generated/GTLOrkutCommunityMembershipStatus.h
+END
+GTLOrkutCommunityPollList.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/135/trunk/Source/Services/Orkut/Generated/GTLOrkutCommunityPollList.h
+END
+GTLOrkutBadge.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/82/trunk/Source/Services/Orkut/Generated/GTLOrkutBadge.m
+END
+GTLOrkutCommunityMembershipStatus.m
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/135/trunk/Source/Services/Orkut/Generated/GTLOrkutCommunityMembershipStatus.m
+END
+GTLOrkutConstants.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/135/trunk/Source/Services/Orkut/Generated/GTLOrkutConstants.h
+END
+GTLOrkutCommunityPollList.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/135/trunk/Source/Services/Orkut/Generated/GTLOrkutCommunityPollList.m
+END
+GTLOrkutCommunityTopicList.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/135/trunk/Source/Services/Orkut/Generated/GTLOrkutCommunityTopicList.h
+END
+GTLOrkutConstants.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/135/trunk/Source/Services/Orkut/Generated/GTLOrkutConstants.m
+END
+GTLOrkutCommunityTopicList.m
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/135/trunk/Source/Services/Orkut/Generated/GTLOrkutCommunityTopicList.m
+END
+GTLOrkut_Sources.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/225/trunk/Source/Services/Orkut/Generated/GTLOrkut_Sources.m
+END
+GTLOrkutActivityList.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/124/trunk/Source/Services/Orkut/Generated/GTLOrkutActivityList.h
+END
+GTLOrkutCommunityPollCommentList.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/135/trunk/Source/Services/Orkut/Generated/GTLOrkutCommunityPollCommentList.h
+END

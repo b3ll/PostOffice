@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/234/trunk/Examples/DriveSample
+END
+main.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/177/trunk/Examples/DriveSample/main.m
+END
+DriveSampleWindowController.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/218/trunk/Examples/DriveSample/DriveSampleWindowController.m
+END
+Info.plist
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/177/trunk/Examples/DriveSample/Info.plist
+END
+DriveSampleAppController.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/177/trunk/Examples/DriveSample/DriveSampleAppController.h
+END
+DriveSampleAppController.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/177/trunk/Examples/DriveSample/DriveSampleAppController.m
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/177/trunk/Examples/DriveSample/README.txt
+END
+DriveSampleWindowController.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/200/trunk/Examples/DriveSample/DriveSampleWindowController.h
+END
+buildStripHeaders
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/177/trunk/Examples/DriveSample/buildStripHeaders
+END

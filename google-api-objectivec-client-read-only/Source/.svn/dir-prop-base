@@ -1,0 +1,13 @@
+K 13
+svn:externals
+V 193
+HTTPFetcher http://gtm-http-fetcher.googlecode.com/svn/trunk/Source
+OAuth2 http://gtm-oauth2.googlecode.com/svn/trunk/Source
+JSON https://github.com/stig/json-framework.git/tags/v2.3.2/Classes
+
+K 10
+svn:ignore
+V 6
+build
+
+END

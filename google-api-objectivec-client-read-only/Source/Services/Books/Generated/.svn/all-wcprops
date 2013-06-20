@@ -1,0 +1,293 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/306/trunk/Source/Services/Books/Generated
+END
+GTLBooksDownloadAccesses.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/213/trunk/Source/Services/Books/Generated/GTLBooksDownloadAccesses.m
+END
+GTLBooks_Sources.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/306/trunk/Source/Services/Books/Generated/GTLBooks_Sources.m
+END
+GTLBooksAnnotationsdata.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/213/trunk/Source/Services/Books/Generated/GTLBooksAnnotationsdata.h
+END
+GTLBooksLayersummary.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/260/trunk/Source/Services/Books/Generated/GTLBooksLayersummary.h
+END
+GTLBooksVolumes.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/213/trunk/Source/Services/Books/Generated/GTLBooksVolumes.h
+END
+GTLBooksAnnotationsdata.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/213/trunk/Source/Services/Books/Generated/GTLBooksAnnotationsdata.m
+END
+GTLBooksLayersummary.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/260/trunk/Source/Services/Books/Generated/GTLBooksLayersummary.m
+END
+GTLBooksVolumes.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/213/trunk/Source/Services/Books/Generated/GTLBooksVolumes.m
+END
+GTLBooksAnnotationdata.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/213/trunk/Source/Services/Books/Generated/GTLBooksAnnotationdata.h
+END
+GTLBooksAnnotationdata.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/213/trunk/Source/Services/Books/Generated/GTLBooksAnnotationdata.m
+END
+GTLBooksConstants.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/306/trunk/Source/Services/Books/Generated/GTLBooksConstants.h
+END
+GTLBooksBookshelf.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/213/trunk/Source/Services/Books/Generated/GTLBooksBookshelf.h
+END
+GTLBooks.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/306/trunk/Source/Services/Books/Generated/GTLBooks.h
+END
+GTLBooksDownloadAccessRestriction.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/213/trunk/Source/Services/Books/Generated/GTLBooksDownloadAccessRestriction.h
+END
+GTLBooksBookshelf.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/213/trunk/Source/Services/Books/Generated/GTLBooksBookshelf.m
+END
+GTLBooksConstants.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/306/trunk/Source/Services/Books/Generated/GTLBooksConstants.m
+END
+GTLBooksDownloadAccessRestriction.m
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/213/trunk/Source/Services/Books/Generated/GTLBooksDownloadAccessRestriction.m
+END
+GTLBooksBookshelves.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/213/trunk/Source/Services/Books/Generated/GTLBooksBookshelves.h
+END
+GTLBooksVolumeannotations.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/260/trunk/Source/Services/Books/Generated/GTLBooksVolumeannotations.h
+END
+GTLBooksBookshelves.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/213/trunk/Source/Services/Books/Generated/GTLBooksBookshelves.m
+END
+GTLBooksConcurrentAccessRestriction.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/213/trunk/Source/Services/Books/Generated/GTLBooksConcurrentAccessRestriction.h
+END
+GTLBooksVolumeannotations.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/260/trunk/Source/Services/Books/Generated/GTLBooksVolumeannotations.m
+END
+GTLBooksAnnotations.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/213/trunk/Source/Services/Books/Generated/GTLBooksAnnotations.h
+END
+GTLBooksReadingPosition.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/213/trunk/Source/Services/Books/Generated/GTLBooksReadingPosition.h
+END
+GTLBooksConcurrentAccessRestriction.m
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/213/trunk/Source/Services/Books/Generated/GTLBooksConcurrentAccessRestriction.m
+END
+GTLServiceBooks.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/213/trunk/Source/Services/Books/Generated/GTLServiceBooks.h
+END
+GTLBooksReview.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/213/trunk/Source/Services/Books/Generated/GTLBooksReview.h
+END
+GTLBooksLayersummaries.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/213/trunk/Source/Services/Books/Generated/GTLBooksLayersummaries.h
+END
+GTLBooksAnnotations.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/213/trunk/Source/Services/Books/Generated/GTLBooksAnnotations.m
+END
+GTLBooksVolumeannotation.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/213/trunk/Source/Services/Books/Generated/GTLBooksVolumeannotation.h
+END
+GTLBooksReadingPosition.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/213/trunk/Source/Services/Books/Generated/GTLBooksReadingPosition.m
+END
+GTLServiceBooks.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/306/trunk/Source/Services/Books/Generated/GTLServiceBooks.m
+END
+GTLQueryBooks.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/306/trunk/Source/Services/Books/Generated/GTLQueryBooks.h
+END
+GTLBooksReview.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/213/trunk/Source/Services/Books/Generated/GTLBooksReview.m
+END
+GTLBooksLayersummaries.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/213/trunk/Source/Services/Books/Generated/GTLBooksLayersummaries.m
+END
+GTLBooksVolumeannotation.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/213/trunk/Source/Services/Books/Generated/GTLBooksVolumeannotation.m
+END
+GTLBooksVolume.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/306/trunk/Source/Services/Books/Generated/GTLBooksVolume.h
+END
+GTLBooksAnnotationsRange.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/213/trunk/Source/Services/Books/Generated/GTLBooksAnnotationsRange.h
+END
+GTLQueryBooks.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/306/trunk/Source/Services/Books/Generated/GTLQueryBooks.m
+END
+GTLBooksRequestAccess.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/213/trunk/Source/Services/Books/Generated/GTLBooksRequestAccess.h
+END
+GTLBooksAnnotation.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/306/trunk/Source/Services/Books/Generated/GTLBooksAnnotation.h
+END
+GTLBooksCloudloadingResource.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/306/trunk/Source/Services/Books/Generated/GTLBooksCloudloadingResource.h
+END
+GTLBooksVolume.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/306/trunk/Source/Services/Books/Generated/GTLBooksVolume.m
+END
+GTLBooksAnnotationsRange.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/213/trunk/Source/Services/Books/Generated/GTLBooksAnnotationsRange.m
+END
+GTLBooksAnnotation.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/306/trunk/Source/Services/Books/Generated/GTLBooksAnnotation.m
+END
+GTLBooksRequestAccess.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/213/trunk/Source/Services/Books/Generated/GTLBooksRequestAccess.m
+END
+GTLBooksDownloadAccesses.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/213/trunk/Source/Services/Books/Generated/GTLBooksDownloadAccesses.h
+END
+GTLBooksCloudloadingResource.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/306/trunk/Source/Services/Books/Generated/GTLBooksCloudloadingResource.m
+END

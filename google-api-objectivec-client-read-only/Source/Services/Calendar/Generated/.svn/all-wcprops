@@ -1,0 +1,293 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/307/trunk/Source/Services/Calendar/Generated
+END
+GTLCalendarAclRule.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/206/trunk/Source/Services/Calendar/Generated/GTLCalendarAclRule.m
+END
+GTLCalendarSettings.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/206/trunk/Source/Services/Calendar/Generated/GTLCalendarSettings.h
+END
+GTLServiceCalendar.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/206/trunk/Source/Services/Calendar/Generated/GTLServiceCalendar.h
+END
+GTLCalendarTimePeriod.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/206/trunk/Source/Services/Calendar/Generated/GTLCalendarTimePeriod.h
+END
+GTLCalendarEvents.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/206/trunk/Source/Services/Calendar/Generated/GTLCalendarEvents.h
+END
+GTLCalendarSettings.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/206/trunk/Source/Services/Calendar/Generated/GTLCalendarSettings.m
+END
+GTLServiceCalendar.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/206/trunk/Source/Services/Calendar/Generated/GTLServiceCalendar.m
+END
+GTLCalendarTimePeriod.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/206/trunk/Source/Services/Calendar/Generated/GTLCalendarTimePeriod.m
+END
+GTLCalendarEvents.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/206/trunk/Source/Services/Calendar/Generated/GTLCalendarEvents.m
+END
+GTLCalendarFreeBusyRequestItem.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/206/trunk/Source/Services/Calendar/Generated/GTLCalendarFreeBusyRequestItem.h
+END
+GTLCalendarConstants.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/206/trunk/Source/Services/Calendar/Generated/GTLCalendarConstants.h
+END
+GTLCalendarFreeBusyCalendar.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/206/trunk/Source/Services/Calendar/Generated/GTLCalendarFreeBusyCalendar.h
+END
+GTLCalendar.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/206/trunk/Source/Services/Calendar/Generated/GTLCalendar.h
+END
+GTLCalendarConstants.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/206/trunk/Source/Services/Calendar/Generated/GTLCalendarConstants.m
+END
+GTLCalendarFreeBusyRequestItem.m
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/206/trunk/Source/Services/Calendar/Generated/GTLCalendarFreeBusyRequestItem.m
+END
+GTLCalendarFreeBusyCalendar.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/206/trunk/Source/Services/Calendar/Generated/GTLCalendarFreeBusyCalendar.m
+END
+GTLCalendarCalendarListEntry.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/284/trunk/Source/Services/Calendar/Generated/GTLCalendarCalendarListEntry.h
+END
+GTLCalendarColorDefinition.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/206/trunk/Source/Services/Calendar/Generated/GTLCalendarColorDefinition.h
+END
+GTLCalendarError.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/206/trunk/Source/Services/Calendar/Generated/GTLCalendarError.h
+END
+GTLCalendarEventAttendee.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/206/trunk/Source/Services/Calendar/Generated/GTLCalendarEventAttendee.h
+END
+GTLCalendarColorDefinition.m
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/206/trunk/Source/Services/Calendar/Generated/GTLCalendarColorDefinition.m
+END
+GTLCalendarCalendarListEntry.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/284/trunk/Source/Services/Calendar/Generated/GTLCalendarCalendarListEntry.m
+END
+GTLCalendarError.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/206/trunk/Source/Services/Calendar/Generated/GTLCalendarError.m
+END
+GTLCalendarEventDateTime.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/206/trunk/Source/Services/Calendar/Generated/GTLCalendarEventDateTime.h
+END
+GTLCalendarAcl.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/206/trunk/Source/Services/Calendar/Generated/GTLCalendarAcl.h
+END
+GTLCalendarEventAttendee.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/206/trunk/Source/Services/Calendar/Generated/GTLCalendarEventAttendee.m
+END
+GTLCalendarColors.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/206/trunk/Source/Services/Calendar/Generated/GTLCalendarColors.h
+END
+GTLCalendarFreeBusyGroup.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/206/trunk/Source/Services/Calendar/Generated/GTLCalendarFreeBusyGroup.h
+END
+GTLCalendarFreeBusyResponse.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/206/trunk/Source/Services/Calendar/Generated/GTLCalendarFreeBusyResponse.h
+END
+GTLCalendarEventDateTime.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/206/trunk/Source/Services/Calendar/Generated/GTLCalendarEventDateTime.m
+END
+GTLCalendarAcl.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/206/trunk/Source/Services/Calendar/Generated/GTLCalendarAcl.m
+END
+GTLQueryCalendar.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/307/trunk/Source/Services/Calendar/Generated/GTLQueryCalendar.h
+END
+GTLCalendarCalendarList.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/206/trunk/Source/Services/Calendar/Generated/GTLCalendarCalendarList.h
+END
+GTLCalendarFreeBusyGroup.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/206/trunk/Source/Services/Calendar/Generated/GTLCalendarFreeBusyGroup.m
+END
+GTLCalendarColors.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/206/trunk/Source/Services/Calendar/Generated/GTLCalendarColors.m
+END
+GTLCalendarEventReminder.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/206/trunk/Source/Services/Calendar/Generated/GTLCalendarEventReminder.h
+END
+GTLCalendarFreeBusyResponse.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/206/trunk/Source/Services/Calendar/Generated/GTLCalendarFreeBusyResponse.m
+END
+GTLCalendarCalendar.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/206/trunk/Source/Services/Calendar/Generated/GTLCalendarCalendar.h
+END
+GTLCalendarCalendarList.m
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/206/trunk/Source/Services/Calendar/Generated/GTLCalendarCalendarList.m
+END
+GTLQueryCalendar.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/307/trunk/Source/Services/Calendar/Generated/GTLQueryCalendar.m
+END
+GTLCalendarEventReminder.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/206/trunk/Source/Services/Calendar/Generated/GTLCalendarEventReminder.m
+END
+GTLCalendarSetting.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/206/trunk/Source/Services/Calendar/Generated/GTLCalendarSetting.h
+END
+GTLCalendarCalendar.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/206/trunk/Source/Services/Calendar/Generated/GTLCalendarCalendar.m
+END
+GTLCalendarEvent.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/298/trunk/Source/Services/Calendar/Generated/GTLCalendarEvent.h
+END
+GTLCalendarSetting.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/206/trunk/Source/Services/Calendar/Generated/GTLCalendarSetting.m
+END
+GTLCalendarEvent.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/298/trunk/Source/Services/Calendar/Generated/GTLCalendarEvent.m
+END
+GTLCalendarAclRule.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/206/trunk/Source/Services/Calendar/Generated/GTLCalendarAclRule.h
+END
+GTLCalendar_Sources.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/225/trunk/Source/Services/Calendar/Generated/GTLCalendar_Sources.m
+END

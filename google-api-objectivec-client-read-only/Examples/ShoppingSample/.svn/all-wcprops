@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/265/trunk/Examples/ShoppingSample
+END
+main.m
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/23/trunk/Examples/ShoppingSample/main.m
+END
+ShoppingSampleWindowController.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/23/trunk/Examples/ShoppingSample/ShoppingSampleWindowController.m
+END
+ShoppingSampleAppController.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/23/trunk/Examples/ShoppingSample/ShoppingSampleAppController.h
+END
+Info.plist
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/23/trunk/Examples/ShoppingSample/Info.plist
+END
+ShoppingSampleAppController.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/23/trunk/Examples/ShoppingSample/ShoppingSampleAppController.m
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/23/trunk/Examples/ShoppingSample/README.txt
+END
+ShoppingSampleWindowController.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/23/trunk/Examples/ShoppingSample/ShoppingSampleWindowController.h
+END
+buildStripHeaders
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/23/trunk/Examples/ShoppingSample/buildStripHeaders
+END

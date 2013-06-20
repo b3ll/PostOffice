@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/154/trunk/Examples/PlusSample/English.lproj
+END
+InfoPlist.strings
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/51/trunk/Examples/PlusSample/English.lproj/InfoPlist.strings
+END
+MainMenu.xib
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/51/trunk/Examples/PlusSample/English.lproj/MainMenu.xib
+END
+PlusSampleWindow.xib
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/154/trunk/Examples/PlusSample/English.lproj/PlusSampleWindow.xib
+END

@@ -1,0 +1,233 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/297/trunk/Source/Services/Mirror/Generated
+END
+GTLMirrorSubscriptionsListResponse.m
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/297/trunk/Source/Services/Mirror/Generated/GTLMirrorSubscriptionsListResponse.m
+END
+GTLMirrorMenuItem.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/297/trunk/Source/Services/Mirror/Generated/GTLMirrorMenuItem.m
+END
+GTLMirrorSubscription.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/297/trunk/Source/Services/Mirror/Generated/GTLMirrorSubscription.m
+END
+GTLMirrorContact.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/297/trunk/Source/Services/Mirror/Generated/GTLMirrorContact.h
+END
+GTLMirrorContact.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/297/trunk/Source/Services/Mirror/Generated/GTLMirrorContact.m
+END
+GTLMirrorMenuValue.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/297/trunk/Source/Services/Mirror/Generated/GTLMirrorMenuValue.h
+END
+GTLQueryMirror.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/297/trunk/Source/Services/Mirror/Generated/GTLQueryMirror.h
+END
+GTLMirrorMenuValue.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/297/trunk/Source/Services/Mirror/Generated/GTLMirrorMenuValue.m
+END
+GTLQueryMirror.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/297/trunk/Source/Services/Mirror/Generated/GTLQueryMirror.m
+END
+GTLMirrorConstants.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/297/trunk/Source/Services/Mirror/Generated/GTLMirrorConstants.h
+END
+GTLMirrorConstants.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/297/trunk/Source/Services/Mirror/Generated/GTLMirrorConstants.m
+END
+GTLMirrorTimelineItem.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/297/trunk/Source/Services/Mirror/Generated/GTLMirrorTimelineItem.h
+END
+GTLMirrorNotification.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/297/trunk/Source/Services/Mirror/Generated/GTLMirrorNotification.h
+END
+GTLMirrorAttachmentsListResponse.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/297/trunk/Source/Services/Mirror/Generated/GTLMirrorAttachmentsListResponse.h
+END
+GTLMirror_Sources.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/297/trunk/Source/Services/Mirror/Generated/GTLMirror_Sources.m
+END
+GTLMirrorAttachment.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/297/trunk/Source/Services/Mirror/Generated/GTLMirrorAttachment.h
+END
+GTLMirrorContactsListResponse.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/297/trunk/Source/Services/Mirror/Generated/GTLMirrorContactsListResponse.h
+END
+GTLMirrorTimelineItem.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/297/trunk/Source/Services/Mirror/Generated/GTLMirrorTimelineItem.m
+END
+GTLMirrorNotification.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/297/trunk/Source/Services/Mirror/Generated/GTLMirrorNotification.m
+END
+GTLMirrorAttachmentsListResponse.m
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/297/trunk/Source/Services/Mirror/Generated/GTLMirrorAttachmentsListResponse.m
+END
+GTLMirrorAttachment.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/297/trunk/Source/Services/Mirror/Generated/GTLMirrorAttachment.m
+END
+GTLMirrorContactsListResponse.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/297/trunk/Source/Services/Mirror/Generated/GTLMirrorContactsListResponse.m
+END
+GTLServiceMirror.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/297/trunk/Source/Services/Mirror/Generated/GTLServiceMirror.h
+END
+GTLServiceMirror.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/297/trunk/Source/Services/Mirror/Generated/GTLServiceMirror.m
+END
+GTLMirrorLocationsListResponse.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/297/trunk/Source/Services/Mirror/Generated/GTLMirrorLocationsListResponse.h
+END
+GTLMirrorLocation.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/297/trunk/Source/Services/Mirror/Generated/GTLMirrorLocation.h
+END
+GTLMirrorLocationsListResponse.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/297/trunk/Source/Services/Mirror/Generated/GTLMirrorLocationsListResponse.m
+END
+GTLMirrorNotificationConfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/297/trunk/Source/Services/Mirror/Generated/GTLMirrorNotificationConfig.h
+END
+GTLMirrorUserAction.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/297/trunk/Source/Services/Mirror/Generated/GTLMirrorUserAction.h
+END
+GTLMirrorLocation.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/297/trunk/Source/Services/Mirror/Generated/GTLMirrorLocation.m
+END
+GTLMirror.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/297/trunk/Source/Services/Mirror/Generated/GTLMirror.h
+END
+GTLMirrorUserAction.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/297/trunk/Source/Services/Mirror/Generated/GTLMirrorUserAction.m
+END
+GTLMirrorNotificationConfig.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/297/trunk/Source/Services/Mirror/Generated/GTLMirrorNotificationConfig.m
+END
+GTLMirrorTimelineListResponse.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/297/trunk/Source/Services/Mirror/Generated/GTLMirrorTimelineListResponse.h
+END
+GTLMirrorSubscriptionsListResponse.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/297/trunk/Source/Services/Mirror/Generated/GTLMirrorSubscriptionsListResponse.h
+END
+GTLMirrorMenuItem.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/297/trunk/Source/Services/Mirror/Generated/GTLMirrorMenuItem.h
+END
+GTLMirrorSubscription.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/297/trunk/Source/Services/Mirror/Generated/GTLMirrorSubscription.h
+END
+GTLMirrorTimelineListResponse.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/297/trunk/Source/Services/Mirror/Generated/GTLMirrorTimelineListResponse.m
+END

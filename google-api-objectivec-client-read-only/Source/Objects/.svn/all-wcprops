@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/291/trunk/Source/Objects
+END
+GTLBatchResult.m
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/117/trunk/Source/Objects/GTLBatchResult.m
+END
+GTLErrorObject.m
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/60/trunk/Source/Objects/GTLErrorObject.m
+END
+GTLDateTime.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/199/trunk/Source/Objects/GTLDateTime.h
+END
+GTLRuntimeCommon.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/14/trunk/Source/Objects/GTLRuntimeCommon.h
+END
+GTLService.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/269/trunk/Source/Objects/GTLService.h
+END
+GTLRuntimeCommon.m
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/191/trunk/Source/Objects/GTLRuntimeCommon.m
+END
+GTLDateTime.m
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/277/trunk/Source/Objects/GTLDateTime.m
+END
+GTLQuery.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/291/trunk/Source/Objects/GTLQuery.h
+END
+GTLService.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/291/trunk/Source/Objects/GTLService.m
+END
+GTLObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/269/trunk/Source/Objects/GTLObject.h
+END
+GTLBatchQuery.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/291/trunk/Source/Objects/GTLBatchQuery.h
+END
+GTLUploadParameters.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/269/trunk/Source/Objects/GTLUploadParameters.h
+END
+GTLQuery.m
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/90/trunk/Source/Objects/GTLQuery.m
+END
+GTLObject.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/249/trunk/Source/Objects/GTLObject.m
+END
+GTLBatchQuery.m
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/291/trunk/Source/Objects/GTLBatchQuery.m
+END
+GTLUploadParameters.m
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/169/trunk/Source/Objects/GTLUploadParameters.m
+END
+GTLErrorObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/60/trunk/Source/Objects/GTLErrorObject.h
+END
+GTLBatchResult.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/117/trunk/Source/Objects/GTLBatchResult.h
+END

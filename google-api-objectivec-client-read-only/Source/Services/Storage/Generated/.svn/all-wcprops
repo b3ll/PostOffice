@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/310/trunk/Source/Services/Storage/Generated
+END
+GTLStorageObjects.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/307/trunk/Source/Services/Storage/Generated/GTLStorageObjects.m
+END
+GTLStorageObjectAccessControl.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/310/trunk/Source/Services/Storage/Generated/GTLStorageObjectAccessControl.m
+END
+GTLStorageBucketAccessControl.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/307/trunk/Source/Services/Storage/Generated/GTLStorageBucketAccessControl.h
+END
+GTLServiceStorage.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/307/trunk/Source/Services/Storage/Generated/GTLServiceStorage.h
+END
+GTLStorageBuckets.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/307/trunk/Source/Services/Storage/Generated/GTLStorageBuckets.h
+END
+GTLQueryStorage.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/310/trunk/Source/Services/Storage/Generated/GTLQueryStorage.h
+END
+GTLServiceStorage.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/307/trunk/Source/Services/Storage/Generated/GTLServiceStorage.m
+END
+GTLStorageBucketAccessControl.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/307/trunk/Source/Services/Storage/Generated/GTLStorageBucketAccessControl.m
+END
+GTLStorageBuckets.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/307/trunk/Source/Services/Storage/Generated/GTLStorageBuckets.m
+END
+GTLStorageObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/307/trunk/Source/Services/Storage/Generated/GTLStorageObject.h
+END
+GTLStorageChannel.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/307/trunk/Source/Services/Storage/Generated/GTLStorageChannel.h
+END
+GTLQueryStorage.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/307/trunk/Source/Services/Storage/Generated/GTLQueryStorage.m
+END
+GTLStorageObject.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/307/trunk/Source/Services/Storage/Generated/GTLStorageObject.m
+END
+GTLStorageConstants.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/307/trunk/Source/Services/Storage/Generated/GTLStorageConstants.h
+END
+GTLStorageObjectAccessControls.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/307/trunk/Source/Services/Storage/Generated/GTLStorageObjectAccessControls.h
+END
+GTLStorageBucket.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/307/trunk/Source/Services/Storage/Generated/GTLStorageBucket.h
+END
+GTLStorageChannel.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/307/trunk/Source/Services/Storage/Generated/GTLStorageChannel.m
+END
+GTLStorage.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/307/trunk/Source/Services/Storage/Generated/GTLStorage.h
+END
+GTLStorageConstants.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/307/trunk/Source/Services/Storage/Generated/GTLStorageConstants.m
+END
+GTLStorageObjectAccessControls.m
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/307/trunk/Source/Services/Storage/Generated/GTLStorageObjectAccessControls.m
+END
+GTLStorageBucket.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/307/trunk/Source/Services/Storage/Generated/GTLStorageBucket.m
+END
+GTLStorageBucketAccessControls.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/307/trunk/Source/Services/Storage/Generated/GTLStorageBucketAccessControls.h
+END
+GTLStorage_Sources.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/307/trunk/Source/Services/Storage/Generated/GTLStorage_Sources.m
+END
+GTLStorageBucketAccessControls.m
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/307/trunk/Source/Services/Storage/Generated/GTLStorageBucketAccessControls.m
+END
+GTLStorageObjects.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/307/trunk/Source/Services/Storage/Generated/GTLStorageObjects.h
+END
+GTLStorageObjectAccessControl.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/310/trunk/Source/Services/Storage/Generated/GTLStorageObjectAccessControl.h
+END

@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/225/trunk/Source/Services/Licensing/Generated
+END
+GTLLicensingLicenseAssignmentList.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/204/trunk/Source/Services/Licensing/Generated/GTLLicensingLicenseAssignmentList.h
+END
+GTLLicensing_Sources.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/225/trunk/Source/Services/Licensing/Generated/GTLLicensing_Sources.m
+END
+GTLQueryLicensing.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/204/trunk/Source/Services/Licensing/Generated/GTLQueryLicensing.m
+END
+GTLLicensingLicenseAssignment.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/204/trunk/Source/Services/Licensing/Generated/GTLLicensingLicenseAssignment.h
+END
+GTLLicensingLicenseAssignmentList.m
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/204/trunk/Source/Services/Licensing/Generated/GTLLicensingLicenseAssignmentList.m
+END
+GTLLicensing.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/204/trunk/Source/Services/Licensing/Generated/GTLLicensing.h
+END
+GTLLicensingLicenseAssignmentInsert.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/204/trunk/Source/Services/Licensing/Generated/GTLLicensingLicenseAssignmentInsert.h
+END
+GTLLicensingLicenseAssignment.m
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/204/trunk/Source/Services/Licensing/Generated/GTLLicensingLicenseAssignment.m
+END
+GTLServiceLicensing.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/204/trunk/Source/Services/Licensing/Generated/GTLServiceLicensing.h
+END
+GTLServiceLicensing.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/204/trunk/Source/Services/Licensing/Generated/GTLServiceLicensing.m
+END
+GTLLicensingLicenseAssignmentInsert.m
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/204/trunk/Source/Services/Licensing/Generated/GTLLicensingLicenseAssignmentInsert.m
+END
+GTLQueryLicensing.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/204/trunk/Source/Services/Licensing/Generated/GTLQueryLicensing.h
+END

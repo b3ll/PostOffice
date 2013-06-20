@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/307/trunk/Source/Services/Tasks/Generated
+END
+GTLTasksConstants.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/307/trunk/Source/Services/Tasks/Generated/GTLTasksConstants.h
+END
+GTLTasks.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/307/trunk/Source/Services/Tasks/Generated/GTLTasks.h
+END
+GTLTasksConstants.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/307/trunk/Source/Services/Tasks/Generated/GTLTasksConstants.m
+END
+GTLTasksTaskLists.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/307/trunk/Source/Services/Tasks/Generated/GTLTasksTaskLists.h
+END
+GTLTasksTasks.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/307/trunk/Source/Services/Tasks/Generated/GTLTasksTasks.h
+END
+GTLTasksTaskLists.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/307/trunk/Source/Services/Tasks/Generated/GTLTasksTaskLists.m
+END
+GTLTasks_Sources.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/307/trunk/Source/Services/Tasks/Generated/GTLTasks_Sources.m
+END
+GTLTasksTasks.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/307/trunk/Source/Services/Tasks/Generated/GTLTasksTasks.m
+END
+GTLTasksTaskList.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/307/trunk/Source/Services/Tasks/Generated/GTLTasksTaskList.h
+END
+GTLServiceTasks.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/307/trunk/Source/Services/Tasks/Generated/GTLServiceTasks.h
+END
+GTLTasksTask.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/307/trunk/Source/Services/Tasks/Generated/GTLTasksTask.h
+END
+GTLTasksTaskList.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/307/trunk/Source/Services/Tasks/Generated/GTLTasksTaskList.m
+END
+GTLQueryTasks.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/307/trunk/Source/Services/Tasks/Generated/GTLQueryTasks.h
+END
+GTLServiceTasks.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/307/trunk/Source/Services/Tasks/Generated/GTLServiceTasks.m
+END
+GTLTasksTask.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/307/trunk/Source/Services/Tasks/Generated/GTLTasksTask.m
+END
+GTLQueryTasks.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/307/trunk/Source/Services/Tasks/Generated/GTLQueryTasks.m
+END

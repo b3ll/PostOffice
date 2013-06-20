@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/60/trunk/Source/Tests/Data
+END
+TaskPage1a.request.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/14/trunk/Source/Tests/Data/TaskPage1a.request.txt
+END
+TaskPage1b.request.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/14/trunk/Source/Tests/Data/TaskPage1b.request.txt
+END
+TaskPage1c.request.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/14/trunk/Source/Tests/Data/TaskPage1c.request.txt
+END
+TaskBatchPage1a.request.txt
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/60/trunk/Source/Tests/Data/TaskBatchPage1a.request.txt
+END
+Task1.request.txt
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/14/trunk/Source/Tests/Data/Task1.request.txt
+END
+TaskPage1d.request.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/14/trunk/Source/Tests/Data/TaskPage1d.request.txt
+END
+TaskBatchPage1b.request.txt
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/60/trunk/Source/Tests/Data/TaskBatchPage1b.request.txt
+END
+TaskBatch1.request.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/14/trunk/Source/Tests/Data/TaskBatch1.request.txt
+END
+TaskPage1a.response.txt
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/14/trunk/Source/Tests/Data/TaskPage1a.response.txt
+END
+TaskPage1b.response.txt
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/14/trunk/Source/Tests/Data/TaskPage1b.response.txt
+END
+Task1.response.txt
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/14/trunk/Source/Tests/Data/Task1.response.txt
+END
+TaskPage1c.response.txt
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/14/trunk/Source/Tests/Data/TaskPage1c.response.txt
+END
+TaskBatchPage1a.response.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/60/trunk/Source/Tests/Data/TaskBatchPage1a.response.txt
+END
+TaskBatchPage1b.response.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/60/trunk/Source/Tests/Data/TaskBatchPage1b.response.txt
+END
+TaskPage1d.response.txt
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/14/trunk/Source/Tests/Data/TaskPage1d.response.txt
+END
+TaskBatch1.response.txt
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/14/trunk/Source/Tests/Data/TaskBatch1.response.txt
+END
+TaskError1.request.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/14/trunk/Source/Tests/Data/TaskError1.request.txt
+END
+TaskError1.response.txt
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/14/trunk/Source/Tests/Data/TaskError1.response.txt
+END
+Task1.rest.txt
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/14/trunk/Source/Tests/Data/Task1.rest.txt
+END

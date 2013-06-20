@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/154/trunk/Examples/ShoppingSample/English.lproj
+END
+InfoPlist.strings
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/23/trunk/Examples/ShoppingSample/English.lproj/InfoPlist.strings
+END
+ShoppingSampleWindow.xib
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/154/trunk/Examples/ShoppingSample/English.lproj/ShoppingSampleWindow.xib
+END
+MainMenu.xib
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/28/trunk/Examples/ShoppingSample/English.lproj/MainMenu.xib
+END

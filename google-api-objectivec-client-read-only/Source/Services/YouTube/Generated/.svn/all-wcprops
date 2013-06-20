@@ -1,0 +1,1157 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/308/trunk/Source/Services/YouTube/Generated
+END
+GTLYouTubePlaylistStatus.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/250/trunk/Source/Services/YouTube/Generated/GTLYouTubePlaylistStatus.h
+END
+GTLYouTubeVideoCategory.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/250/trunk/Source/Services/YouTube/Generated/GTLYouTubeVideoCategory.m
+END
+GTLYouTubeVideoProcessingDetails.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/284/trunk/Source/Services/YouTube/Generated/GTLYouTubeVideoProcessingDetails.h
+END
+GTLYouTubeResourceId.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/250/trunk/Source/Services/YouTube/Generated/GTLYouTubeResourceId.m
+END
+GTLYouTubePlaylistStatus.m
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/250/trunk/Source/Services/YouTube/Generated/GTLYouTubePlaylistStatus.m
+END
+GTLYouTubeVideoMonetizationDetails.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/275/trunk/Source/Services/YouTube/Generated/GTLYouTubeVideoMonetizationDetails.h
+END
+GTLYouTubeVideoAgeGating.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/290/trunk/Source/Services/YouTube/Generated/GTLYouTubeVideoAgeGating.h
+END
+GTLYouTubeVideoProcessingDetails.m
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/279/trunk/Source/Services/YouTube/Generated/GTLYouTubeVideoProcessingDetails.m
+END
+GTLYouTube.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/308/trunk/Source/Services/YouTube/Generated/GTLYouTube.h
+END
+GTLYouTubePlaylistItemContentDetails.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/250/trunk/Source/Services/YouTube/Generated/GTLYouTubePlaylistItemContentDetails.h
+END
+GTLYouTubeVideoAgeGating.m
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/290/trunk/Source/Services/YouTube/Generated/GTLYouTubeVideoAgeGating.m
+END
+GTLYouTubeVideoMonetizationDetails.m
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/268/trunk/Source/Services/YouTube/Generated/GTLYouTubeVideoMonetizationDetails.m
+END
+GTLYouTubePromotedItemId.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/308/trunk/Source/Services/YouTube/Generated/GTLYouTubePromotedItemId.h
+END
+GTLYouTubePlaylistItemContentDetails.m
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/250/trunk/Source/Services/YouTube/Generated/GTLYouTubePlaylistItemContentDetails.m
+END
+GTLYouTubePromotedItemId.m
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/308/trunk/Source/Services/YouTube/Generated/GTLYouTubePromotedItemId.m
+END
+GTLYouTubeLiveStreamCdn.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/290/trunk/Source/Services/YouTube/Generated/GTLYouTubeLiveStreamCdn.h
+END
+GTLYouTubePlaylist.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/252/trunk/Source/Services/YouTube/Generated/GTLYouTubePlaylist.h
+END
+GTLYouTubePlaylistSnippet.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/308/trunk/Source/Services/YouTube/Generated/GTLYouTubePlaylistSnippet.h
+END
+GTLYouTubeLiveStreamCdn.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/290/trunk/Source/Services/YouTube/Generated/GTLYouTubeLiveStreamCdn.m
+END
+GTLQueryYouTube.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/308/trunk/Source/Services/YouTube/Generated/GTLQueryYouTube.h
+END
+GTLYouTubeInvideoTiming.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/308/trunk/Source/Services/YouTube/Generated/GTLYouTubeInvideoTiming.h
+END
+GTLYouTubePlaylist.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/252/trunk/Source/Services/YouTube/Generated/GTLYouTubePlaylist.m
+END
+GTLYouTubePlaylistSnippet.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/308/trunk/Source/Services/YouTube/Generated/GTLYouTubePlaylistSnippet.m
+END
+GTLQueryYouTube.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/308/trunk/Source/Services/YouTube/Generated/GTLQueryYouTube.m
+END
+GTLYouTubeInvideoTiming.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/308/trunk/Source/Services/YouTube/Generated/GTLYouTubeInvideoTiming.m
+END
+GTLYouTubeVideoFileDetailsVideoStream.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/284/trunk/Source/Services/YouTube/Generated/GTLYouTubeVideoFileDetailsVideoStream.h
+END
+GTLYouTubeVideoCategoryListResponse.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/308/trunk/Source/Services/YouTube/Generated/GTLYouTubeVideoCategoryListResponse.h
+END
+GTLYouTubeSearchListResponse.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/308/trunk/Source/Services/YouTube/Generated/GTLYouTubeSearchListResponse.h
+END
+GTLYouTubeInvideoPosition.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/308/trunk/Source/Services/YouTube/Generated/GTLYouTubeInvideoPosition.h
+END
+GTLYouTubeVideoCategoryListResponse.m
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/308/trunk/Source/Services/YouTube/Generated/GTLYouTubeVideoCategoryListResponse.m
+END
+GTLYouTubeVideoFileDetailsVideoStream.m
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/279/trunk/Source/Services/YouTube/Generated/GTLYouTubeVideoFileDetailsVideoStream.m
+END
+GTLYouTubeLiveBroadcastSnippet.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/292/trunk/Source/Services/YouTube/Generated/GTLYouTubeLiveBroadcastSnippet.h
+END
+GTLYouTubeSearchListResponse.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/308/trunk/Source/Services/YouTube/Generated/GTLYouTubeSearchListResponse.m
+END
+GTLYouTubeInvideoPosition.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/308/trunk/Source/Services/YouTube/Generated/GTLYouTubeInvideoPosition.m
+END
+GTLYouTubeThumbnailDetails.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/308/trunk/Source/Services/YouTube/Generated/GTLYouTubeThumbnailDetails.h
+END
+GTLYouTubeLiveBroadcastSnippet.m
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/292/trunk/Source/Services/YouTube/Generated/GTLYouTubeLiveBroadcastSnippet.m
+END
+GTLYouTubeThumbnailDetails.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/292/trunk/Source/Services/YouTube/Generated/GTLYouTubeThumbnailDetails.m
+END
+GTLYouTubeVideoContentDetailsRegionRestriction.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/287/trunk/Source/Services/YouTube/Generated/GTLYouTubeVideoContentDetailsRegionRestriction.h
+END
+GTLYouTubeVideo.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/308/trunk/Source/Services/YouTube/Generated/GTLYouTubeVideo.h
+END
+GTLYouTubeVideoContentDetailsRegionRestriction.m
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/263/trunk/Source/Services/YouTube/Generated/GTLYouTubeVideoContentDetailsRegionRestriction.m
+END
+GTLYouTubeLiveStreamList.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/308/trunk/Source/Services/YouTube/Generated/GTLYouTubeLiveStreamList.h
+END
+GTLYouTubeChannelContentDetails.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/279/trunk/Source/Services/YouTube/Generated/GTLYouTubeChannelContentDetails.h
+END
+GTLYouTubeVideo.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/308/trunk/Source/Services/YouTube/Generated/GTLYouTubeVideo.m
+END
+GTLYouTubeLiveStreamList.m
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/308/trunk/Source/Services/YouTube/Generated/GTLYouTubeLiveStreamList.m
+END
+GTLYouTubeChannelTopicDetails.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/250/trunk/Source/Services/YouTube/Generated/GTLYouTubeChannelTopicDetails.h
+END
+GTLYouTubeLiveStreamSnippet.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/290/trunk/Source/Services/YouTube/Generated/GTLYouTubeLiveStreamSnippet.h
+END
+GTLYouTubeChannelContentDetails.m
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/279/trunk/Source/Services/YouTube/Generated/GTLYouTubeChannelContentDetails.m
+END
+GTLYouTubeAccessPolicy.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/275/trunk/Source/Services/YouTube/Generated/GTLYouTubeAccessPolicy.h
+END
+GTLYouTubePropertyValue.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/308/trunk/Source/Services/YouTube/Generated/GTLYouTubePropertyValue.h
+END
+GTLYouTubeChannelTopicDetails.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/250/trunk/Source/Services/YouTube/Generated/GTLYouTubeChannelTopicDetails.m
+END
+GTLYouTubeLiveBroadcast.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/308/trunk/Source/Services/YouTube/Generated/GTLYouTubeLiveBroadcast.h
+END
+GTLYouTubeLiveStreamSnippet.m
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/279/trunk/Source/Services/YouTube/Generated/GTLYouTubeLiveStreamSnippet.m
+END
+GTLYouTubeChannelStatistics.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/250/trunk/Source/Services/YouTube/Generated/GTLYouTubeChannelStatistics.h
+END
+GTLYouTubeGeoPoint.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/250/trunk/Source/Services/YouTube/Generated/GTLYouTubeGeoPoint.h
+END
+GTLYouTubeSubscription.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/308/trunk/Source/Services/YouTube/Generated/GTLYouTubeSubscription.h
+END
+GTLYouTubeAccessPolicy.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/268/trunk/Source/Services/YouTube/Generated/GTLYouTubeAccessPolicy.m
+END
+GTLYouTubePropertyValue.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/300/trunk/Source/Services/YouTube/Generated/GTLYouTubePropertyValue.m
+END
+GTLYouTubeLiveBroadcast.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/308/trunk/Source/Services/YouTube/Generated/GTLYouTubeLiveBroadcast.m
+END
+GTLYouTubeChannelStatistics.m
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/250/trunk/Source/Services/YouTube/Generated/GTLYouTubeChannelStatistics.m
+END
+GTLYouTubeSubscription.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/308/trunk/Source/Services/YouTube/Generated/GTLYouTubeSubscription.m
+END
+GTLYouTubeGeoPoint.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/250/trunk/Source/Services/YouTube/Generated/GTLYouTubeGeoPoint.m
+END
+GTLYouTubeVideoProcessingDetailsProcessingProgress.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/284/trunk/Source/Services/YouTube/Generated/GTLYouTubeVideoProcessingDetailsProcessingProgress.h
+END
+GTLYouTubeActivityContentDetails.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/308/trunk/Source/Services/YouTube/Generated/GTLYouTubeActivityContentDetails.h
+END
+GTLYouTubeThumbnailListResponse.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/308/trunk/Source/Services/YouTube/Generated/GTLYouTubeThumbnailListResponse.h
+END
+GTLYouTubeActivitySnippet.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/292/trunk/Source/Services/YouTube/Generated/GTLYouTubeActivitySnippet.h
+END
+GTLYouTubeVideoProcessingDetailsProcessingProgress.m
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/279/trunk/Source/Services/YouTube/Generated/GTLYouTubeVideoProcessingDetailsProcessingProgress.m
+END
+GTLServiceYouTube.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/250/trunk/Source/Services/YouTube/Generated/GTLServiceYouTube.h
+END
+GTLYouTubeActivityContentDetails.m
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/308/trunk/Source/Services/YouTube/Generated/GTLYouTubeActivityContentDetails.m
+END
+GTLYouTubeThumbnailListResponse.m
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/308/trunk/Source/Services/YouTube/Generated/GTLYouTubeThumbnailListResponse.m
+END
+GTLYouTubeActivitySnippet.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/292/trunk/Source/Services/YouTube/Generated/GTLYouTubeActivitySnippet.m
+END
+GTLYouTubeInvideoPromotion.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/308/trunk/Source/Services/YouTube/Generated/GTLYouTubeInvideoPromotion.h
+END
+GTLServiceYouTube.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/308/trunk/Source/Services/YouTube/Generated/GTLServiceYouTube.m
+END
+GTLYouTubeVideoContentDetails.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/299/trunk/Source/Services/YouTube/Generated/GTLYouTubeVideoContentDetails.h
+END
+GTLYouTubeInvideoPromotion.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/308/trunk/Source/Services/YouTube/Generated/GTLYouTubeInvideoPromotion.m
+END
+GTLYouTubeVideoRating.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/308/trunk/Source/Services/YouTube/Generated/GTLYouTubeVideoRating.h
+END
+GTLYouTubeVideoFileDetails.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/284/trunk/Source/Services/YouTube/Generated/GTLYouTubeVideoFileDetails.h
+END
+GTLYouTubeConstants.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/308/trunk/Source/Services/YouTube/Generated/GTLYouTubeConstants.h
+END
+GTLYouTubeVideoContentDetails.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/299/trunk/Source/Services/YouTube/Generated/GTLYouTubeVideoContentDetails.m
+END
+GTLYouTubeContentRating.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/299/trunk/Source/Services/YouTube/Generated/GTLYouTubeContentRating.h
+END
+GTLYouTubeVideoRating.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/308/trunk/Source/Services/YouTube/Generated/GTLYouTubeVideoRating.m
+END
+GTLYouTubePlaylistItem.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/296/trunk/Source/Services/YouTube/Generated/GTLYouTubePlaylistItem.h
+END
+GTLYouTubeVideoStatistics.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/250/trunk/Source/Services/YouTube/Generated/GTLYouTubeVideoStatistics.h
+END
+GTLYouTubeVideoListResponse.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/308/trunk/Source/Services/YouTube/Generated/GTLYouTubeVideoListResponse.h
+END
+GTLYouTubeConstants.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/308/trunk/Source/Services/YouTube/Generated/GTLYouTubeConstants.m
+END
+GTLYouTubeVideoFileDetails.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/279/trunk/Source/Services/YouTube/Generated/GTLYouTubeVideoFileDetails.m
+END
+GTLYouTubeVideoPlayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/250/trunk/Source/Services/YouTube/Generated/GTLYouTubeVideoPlayer.h
+END
+GTLYouTubeLiveBroadcastContentDetails.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/308/trunk/Source/Services/YouTube/Generated/GTLYouTubeLiveBroadcastContentDetails.h
+END
+GTLYouTubeContentRating.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/299/trunk/Source/Services/YouTube/Generated/GTLYouTubeContentRating.m
+END
+GTLYouTubePlaylistItem.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/296/trunk/Source/Services/YouTube/Generated/GTLYouTubePlaylistItem.m
+END
+GTLYouTubeVideoListResponse.m
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/308/trunk/Source/Services/YouTube/Generated/GTLYouTubeVideoListResponse.m
+END
+GTLYouTubeVideoStatistics.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/250/trunk/Source/Services/YouTube/Generated/GTLYouTubeVideoStatistics.m
+END
+GTLYouTube_Sources.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/308/trunk/Source/Services/YouTube/Generated/GTLYouTube_Sources.m
+END
+GTLYouTubeLiveBroadcastContentDetails.m
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/308/trunk/Source/Services/YouTube/Generated/GTLYouTubeLiveBroadcastContentDetails.m
+END
+GTLYouTubeVideoPlayer.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/250/trunk/Source/Services/YouTube/Generated/GTLYouTubeVideoPlayer.m
+END
+GTLYouTubeLocalizedString.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/296/trunk/Source/Services/YouTube/Generated/GTLYouTubeLocalizedString.h
+END
+GTLYouTubeSubscriptionListResponse.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/308/trunk/Source/Services/YouTube/Generated/GTLYouTubeSubscriptionListResponse.h
+END
+GTLYouTubePlaylistContentDetails.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/250/trunk/Source/Services/YouTube/Generated/GTLYouTubePlaylistContentDetails.h
+END
+GTLYouTubeLocalizedString.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/288/trunk/Source/Services/YouTube/Generated/GTLYouTubeLocalizedString.m
+END
+GTLYouTubeSubscriptionListResponse.m
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/308/trunk/Source/Services/YouTube/Generated/GTLYouTubeSubscriptionListResponse.m
+END
+GTLYouTubeGuideCategoryListResponse.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/308/trunk/Source/Services/YouTube/Generated/GTLYouTubeGuideCategoryListResponse.h
+END
+GTLYouTubePlaylistContentDetails.m
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/250/trunk/Source/Services/YouTube/Generated/GTLYouTubePlaylistContentDetails.m
+END
+GTLYouTubeSearchResultSnippet.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/308/trunk/Source/Services/YouTube/Generated/GTLYouTubeSearchResultSnippet.h
+END
+GTLYouTubeVideoRecordingDetails.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/250/trunk/Source/Services/YouTube/Generated/GTLYouTubeVideoRecordingDetails.h
+END
+GTLYouTubeGuideCategoryListResponse.m
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/308/trunk/Source/Services/YouTube/Generated/GTLYouTubeGuideCategoryListResponse.m
+END
+GTLYouTubeLiveStream.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/290/trunk/Source/Services/YouTube/Generated/GTLYouTubeLiveStream.h
+END
+GTLYouTubeSubscriptionSubscriberSnippet.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/308/trunk/Source/Services/YouTube/Generated/GTLYouTubeSubscriptionSubscriberSnippet.h
+END
+GTLYouTubeSearchResultSnippet.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/292/trunk/Source/Services/YouTube/Generated/GTLYouTubeSearchResultSnippet.m
+END
+GTLYouTubePlaylistPlayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/252/trunk/Source/Services/YouTube/Generated/GTLYouTubePlaylistPlayer.h
+END
+GTLYouTubeVideoRecordingDetails.m
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/250/trunk/Source/Services/YouTube/Generated/GTLYouTubeVideoRecordingDetails.m
+END
+GTLYouTubeLiveBroadcastList.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/308/trunk/Source/Services/YouTube/Generated/GTLYouTubeLiveBroadcastList.h
+END
+GTLYouTubeSubscriptionSubscriberSnippet.m
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/308/trunk/Source/Services/YouTube/Generated/GTLYouTubeSubscriptionSubscriberSnippet.m
+END
+GTLYouTubeLiveStream.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/279/trunk/Source/Services/YouTube/Generated/GTLYouTubeLiveStream.m
+END
+GTLYouTubePlaylistPlayer.m
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/252/trunk/Source/Services/YouTube/Generated/GTLYouTubePlaylistPlayer.m
+END
+GTLYouTubeLiveBroadcastList.m
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/308/trunk/Source/Services/YouTube/Generated/GTLYouTubeLiveBroadcastList.m
+END
+GTLYouTubePlaylistItemSnippet.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/308/trunk/Source/Services/YouTube/Generated/GTLYouTubePlaylistItemSnippet.h
+END
+GTLYouTubePlaylistItemStatus.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/308/trunk/Source/Services/YouTube/Generated/GTLYouTubePlaylistItemStatus.h
+END
+GTLYouTubePageInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/250/trunk/Source/Services/YouTube/Generated/GTLYouTubePageInfo.h
+END
+GTLYouTubePlaylistItemSnippet.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/308/trunk/Source/Services/YouTube/Generated/GTLYouTubePlaylistItemSnippet.m
+END
+GTLYouTubePlaylistItemStatus.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/296/trunk/Source/Services/YouTube/Generated/GTLYouTubePlaylistItemStatus.m
+END
+GTLYouTubePlaylistItemListResponse.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/308/trunk/Source/Services/YouTube/Generated/GTLYouTubePlaylistItemListResponse.h
+END
+GTLYouTubeChannelConversionPing.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/308/trunk/Source/Services/YouTube/Generated/GTLYouTubeChannelConversionPing.h
+END
+GTLYouTubePageInfo.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/250/trunk/Source/Services/YouTube/Generated/GTLYouTubePageInfo.m
+END
+GTLYouTubeGuideCategorySnippet.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/250/trunk/Source/Services/YouTube/Generated/GTLYouTubeGuideCategorySnippet.h
+END
+GTLYouTubeChannelBrandingSettings.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/290/trunk/Source/Services/YouTube/Generated/GTLYouTubeChannelBrandingSettings.h
+END
+GTLYouTubePlaylistItemListResponse.m
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/308/trunk/Source/Services/YouTube/Generated/GTLYouTubePlaylistItemListResponse.m
+END
+GTLYouTubeChannelConversionPing.m
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/308/trunk/Source/Services/YouTube/Generated/GTLYouTubeChannelConversionPing.m
+END
+GTLYouTubeChannelBrandingSettings.m
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/287/trunk/Source/Services/YouTube/Generated/GTLYouTubeChannelBrandingSettings.m
+END
+GTLYouTubeGuideCategorySnippet.m
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/250/trunk/Source/Services/YouTube/Generated/GTLYouTubeGuideCategorySnippet.m
+END
+GTLYouTubeVideoCategorySnippet.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/308/trunk/Source/Services/YouTube/Generated/GTLYouTubeVideoCategorySnippet.h
+END
+GTLYouTubeChannel.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/308/trunk/Source/Services/YouTube/Generated/GTLYouTubeChannel.h
+END
+GTLYouTubeVideoSnippet.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/292/trunk/Source/Services/YouTube/Generated/GTLYouTubeVideoSnippet.h
+END
+GTLYouTubeVideoFileDetailsAudioStream.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/284/trunk/Source/Services/YouTube/Generated/GTLYouTubeVideoFileDetailsAudioStream.h
+END
+GTLYouTubeVideoCategorySnippet.m
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/250/trunk/Source/Services/YouTube/Generated/GTLYouTubeVideoCategorySnippet.m
+END
+GTLYouTubeChannel.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/308/trunk/Source/Services/YouTube/Generated/GTLYouTubeChannel.m
+END
+GTLYouTubeVideoSnippet.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/292/trunk/Source/Services/YouTube/Generated/GTLYouTubeVideoSnippet.m
+END
+GTLYouTubeVideoFileDetailsAudioStream.m
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/279/trunk/Source/Services/YouTube/Generated/GTLYouTubeVideoFileDetailsAudioStream.m
+END
+GTLYouTubeThumbnail.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/275/trunk/Source/Services/YouTube/Generated/GTLYouTubeThumbnail.h
+END
+GTLYouTubeWatchSettings.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/296/trunk/Source/Services/YouTube/Generated/GTLYouTubeWatchSettings.h
+END
+GTLYouTubeThumbnail.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/263/trunk/Source/Services/YouTube/Generated/GTLYouTubeThumbnail.m
+END
+GTLYouTubeVideoConversionPing.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/308/trunk/Source/Services/YouTube/Generated/GTLYouTubeVideoConversionPing.h
+END
+GTLYouTubeActivity.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/250/trunk/Source/Services/YouTube/Generated/GTLYouTubeActivity.h
+END
+GTLYouTubeWatchSettings.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/287/trunk/Source/Services/YouTube/Generated/GTLYouTubeWatchSettings.m
+END
+GTLYouTubeVideoConversionPing.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/308/trunk/Source/Services/YouTube/Generated/GTLYouTubeVideoConversionPing.m
+END
+GTLYouTubeActivity.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/250/trunk/Source/Services/YouTube/Generated/GTLYouTubeActivity.m
+END
+GTLYouTubeVideoSuggestions.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/284/trunk/Source/Services/YouTube/Generated/GTLYouTubeVideoSuggestions.h
+END
+GTLYouTubeVideoSuggestions.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/279/trunk/Source/Services/YouTube/Generated/GTLYouTubeVideoSuggestions.m
+END
+GTLYouTubeChannelSnippet.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/292/trunk/Source/Services/YouTube/Generated/GTLYouTubeChannelSnippet.h
+END
+GTLYouTubeLocalizedProperty.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/296/trunk/Source/Services/YouTube/Generated/GTLYouTubeLocalizedProperty.h
+END
+GTLYouTubeChannelStatus.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/308/trunk/Source/Services/YouTube/Generated/GTLYouTubeChannelStatus.h
+END
+GTLYouTubePlaylistListResponse.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/308/trunk/Source/Services/YouTube/Generated/GTLYouTubePlaylistListResponse.h
+END
+GTLYouTubeVideoConversionPings.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/308/trunk/Source/Services/YouTube/Generated/GTLYouTubeVideoConversionPings.h
+END
+GTLYouTubeLocalizedProperty.m
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/290/trunk/Source/Services/YouTube/Generated/GTLYouTubeLocalizedProperty.m
+END
+GTLYouTubeChannelSnippet.m
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/292/trunk/Source/Services/YouTube/Generated/GTLYouTubeChannelSnippet.m
+END
+GTLYouTubeChannelStatus.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/308/trunk/Source/Services/YouTube/Generated/GTLYouTubeChannelStatus.m
+END
+GTLYouTubePlaylistListResponse.m
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/308/trunk/Source/Services/YouTube/Generated/GTLYouTubePlaylistListResponse.m
+END
+GTLYouTubeVideoConversionPings.m
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/308/trunk/Source/Services/YouTube/Generated/GTLYouTubeVideoConversionPings.m
+END
+GTLYouTubeChannelListResponse.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/308/trunk/Source/Services/YouTube/Generated/GTLYouTubeChannelListResponse.h
+END
+GTLYouTubeChannelListResponse.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/308/trunk/Source/Services/YouTube/Generated/GTLYouTubeChannelListResponse.m
+END
+GTLYouTubeChannelSettings.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/296/trunk/Source/Services/YouTube/Generated/GTLYouTubeChannelSettings.h
+END
+GTLYouTubeGuideCategory.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/250/trunk/Source/Services/YouTube/Generated/GTLYouTubeGuideCategory.h
+END
+GTLYouTubeLiveStreamCdnIngestionInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/290/trunk/Source/Services/YouTube/Generated/GTLYouTubeLiveStreamCdnIngestionInfo.h
+END
+GTLYouTubeChannelSettings.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/288/trunk/Source/Services/YouTube/Generated/GTLYouTubeChannelSettings.m
+END
+GTLYouTubeGuideCategory.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/250/trunk/Source/Services/YouTube/Generated/GTLYouTubeGuideCategory.m
+END
+GTLYouTubeLiveStreamCdnIngestionInfo.m
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/279/trunk/Source/Services/YouTube/Generated/GTLYouTubeLiveStreamCdnIngestionInfo.m
+END
+GTLYouTubeImageSettings.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/308/trunk/Source/Services/YouTube/Generated/GTLYouTubeImageSettings.h
+END
+GTLYouTubeVideoProjectDetails.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/284/trunk/Source/Services/YouTube/Generated/GTLYouTubeVideoProjectDetails.h
+END
+GTLYouTubeSearchResult.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/292/trunk/Source/Services/YouTube/Generated/GTLYouTubeSearchResult.h
+END
+GTLYouTubeVideoSuggestionsTagSuggestion.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/284/trunk/Source/Services/YouTube/Generated/GTLYouTubeVideoSuggestionsTagSuggestion.h
+END
+GTLYouTubeActivityListResponse.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/308/trunk/Source/Services/YouTube/Generated/GTLYouTubeActivityListResponse.h
+END
+GTLYouTubeImageSettings.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/296/trunk/Source/Services/YouTube/Generated/GTLYouTubeImageSettings.m
+END
+GTLYouTubeVideoProjectDetails.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/284/trunk/Source/Services/YouTube/Generated/GTLYouTubeVideoProjectDetails.m
+END
+GTLYouTubeSearchResult.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/292/trunk/Source/Services/YouTube/Generated/GTLYouTubeSearchResult.m
+END
+GTLYouTubeVideoStatus.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/308/trunk/Source/Services/YouTube/Generated/GTLYouTubeVideoStatus.h
+END
+GTLYouTubeVideoSuggestionsTagSuggestion.m
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/279/trunk/Source/Services/YouTube/Generated/GTLYouTubeVideoSuggestionsTagSuggestion.m
+END
+GTLYouTubeVideoTopicDetails.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/250/trunk/Source/Services/YouTube/Generated/GTLYouTubeVideoTopicDetails.h
+END
+GTLYouTubeActivityListResponse.m
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/308/trunk/Source/Services/YouTube/Generated/GTLYouTubeActivityListResponse.m
+END
+GTLYouTubeLiveStreamStatus.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/290/trunk/Source/Services/YouTube/Generated/GTLYouTubeLiveStreamStatus.h
+END
+GTLYouTubeChannelConversionPings.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/308/trunk/Source/Services/YouTube/Generated/GTLYouTubeChannelConversionPings.h
+END
+GTLYouTubeVideoStatus.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/292/trunk/Source/Services/YouTube/Generated/GTLYouTubeVideoStatus.m
+END
+GTLYouTubeVideoTopicDetails.m
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/250/trunk/Source/Services/YouTube/Generated/GTLYouTubeVideoTopicDetails.m
+END
+GTLYouTubeLiveStreamStatus.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/279/trunk/Source/Services/YouTube/Generated/GTLYouTubeLiveStreamStatus.m
+END
+GTLYouTubeChannelConversionPings.m
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/308/trunk/Source/Services/YouTube/Generated/GTLYouTubeChannelConversionPings.m
+END
+GTLYouTubeSubscriptionContentDetails.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/256/trunk/Source/Services/YouTube/Generated/GTLYouTubeSubscriptionContentDetails.h
+END
+GTLYouTubeLiveBroadcastStatus.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/290/trunk/Source/Services/YouTube/Generated/GTLYouTubeLiveBroadcastStatus.h
+END
+GTLYouTubeSubscriptionSnippet.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/308/trunk/Source/Services/YouTube/Generated/GTLYouTubeSubscriptionSnippet.h
+END
+GTLYouTubeVideoGetRatingResponse.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/308/trunk/Source/Services/YouTube/Generated/GTLYouTubeVideoGetRatingResponse.h
+END
+GTLYouTubeSubscriptionContentDetails.m
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/250/trunk/Source/Services/YouTube/Generated/GTLYouTubeSubscriptionContentDetails.m
+END
+GTLYouTubeLiveBroadcastStatus.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/279/trunk/Source/Services/YouTube/Generated/GTLYouTubeLiveBroadcastStatus.m
+END
+GTLYouTubeSubscriptionSnippet.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/308/trunk/Source/Services/YouTube/Generated/GTLYouTubeSubscriptionSnippet.m
+END
+GTLYouTubeVideoGetRatingResponse.m
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/308/trunk/Source/Services/YouTube/Generated/GTLYouTubeVideoGetRatingResponse.m
+END
+GTLYouTubeResourceId.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/308/trunk/Source/Services/YouTube/Generated/GTLYouTubeResourceId.h
+END
+GTLYouTubeVideoCategory.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/250/trunk/Source/Services/YouTube/Generated/GTLYouTubeVideoCategory.h
+END

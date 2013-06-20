@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/225/trunk/Source/Services/Latitude/Generated
+END
+GTLLatitude_Sources.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/225/trunk/Source/Services/Latitude/Generated/GTLLatitude_Sources.m
+END
+GTLLatitudeLocation.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/189/trunk/Source/Services/Latitude/Generated/GTLLatitudeLocation.h
+END
+GTLQueryLatitude.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/189/trunk/Source/Services/Latitude/Generated/GTLQueryLatitude.m
+END
+GTLLatitudeConstants.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/189/trunk/Source/Services/Latitude/Generated/GTLLatitudeConstants.h
+END
+GTLLatitudeLocationFeed.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/189/trunk/Source/Services/Latitude/Generated/GTLLatitudeLocationFeed.h
+END
+GTLLatitudeLocation.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/189/trunk/Source/Services/Latitude/Generated/GTLLatitudeLocation.m
+END
+GTLLatitude.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/189/trunk/Source/Services/Latitude/Generated/GTLLatitude.h
+END
+GTLServiceLatitude.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/189/trunk/Source/Services/Latitude/Generated/GTLServiceLatitude.h
+END
+GTLLatitudeConstants.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/189/trunk/Source/Services/Latitude/Generated/GTLLatitudeConstants.m
+END
+GTLLatitudeLocationFeed.m
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/189/trunk/Source/Services/Latitude/Generated/GTLLatitudeLocationFeed.m
+END
+GTLServiceLatitude.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/189/trunk/Source/Services/Latitude/Generated/GTLServiceLatitude.m
+END
+GTLQueryLatitude.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/189/trunk/Source/Services/Latitude/Generated/GTLQueryLatitude.h
+END

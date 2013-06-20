@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/259/trunk/Examples/CalendarSample
+END
+main.m
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/98/trunk/Examples/CalendarSample/main.m
+END
+CalendarSampleWindowController.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/199/trunk/Examples/CalendarSample/CalendarSampleWindowController.m
+END
+Info.plist
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/98/trunk/Examples/CalendarSample/Info.plist
+END
+CalendarSampleAppController.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/98/trunk/Examples/CalendarSample/CalendarSampleAppController.h
+END
+EditACLWindowController.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/98/trunk/Examples/CalendarSample/EditACLWindowController.h
+END
+EditEventWindowController.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/98/trunk/Examples/CalendarSample/EditEventWindowController.h
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/98/trunk/Examples/CalendarSample/README.txt
+END
+CalendarSampleAppController.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/98/trunk/Examples/CalendarSample/CalendarSampleAppController.m
+END
+EditACLWindowController.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/98/trunk/Examples/CalendarSample/EditACLWindowController.m
+END
+buildStripHeaders
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/98/trunk/Examples/CalendarSample/buildStripHeaders
+END
+CalendarSampleWindowController.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/98/trunk/Examples/CalendarSample/CalendarSampleWindowController.h
+END
+EditEventWindowController.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/199/trunk/Examples/CalendarSample/EditEventWindowController.m
+END

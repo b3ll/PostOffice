@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/14/trunk/Source/Resources
+END
+DevTestTool-Info.plist
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/14/trunk/Source/Resources/DevTestTool-Info.plist
+END
+GTLFramework-Info.plist
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/14/trunk/Source/Resources/GTLFramework-Info.plist
+END
+GTLUnitTests-Info.plist
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/14/trunk/Source/Resources/GTLUnitTests-Info.plist
+END

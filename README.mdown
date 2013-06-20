@@ -1,0 +1,45 @@
+Post Office 
+=============
+
+Forward your iOS Notifications to Google Glass
+
+Disclaimer
+=============
+
+I probably won't be maintaining this much since it probably won't be necessary when Google updates Glass to accept bluetooth notifications from iOS.
+
+How do I Post Office?
+=============
+
+It's really simple. Simply search for Post Office on Cydia.
+
+ If you want to install it manually simply install the [.deb](https://github.com/b3ll/PostOffice/raw/master/Packages/.deb) using any means (ssh, iFile) on any 6.X jailbroken iOS Device. You'll also need to respring.
+
+After that, simply login using the preferences in the Settings app. You'll need to login to your Google+ account. If you want to turn this off, simply sign out.
+
+How do I compile?
+=============
+
+It's super hacky, and probably won't compile nicely. Much easier to just install when it's available on Cydia.
+
+I used iOSOpenDev + CaptainHook for this. You'll need to install iOSOpenDev and setup the environment variables in the Xcode Project (under Build Settings for the PostOffice target) or play around with the project yourself and set things up to work without iOSOpenDev. It's very broken and not well put together as it was just a quick hack. You'll also need a client ID and secret for the Google Glass Mirror API.
+
+
+Price?
+=============
+
+Totally free! If you'd like to support my continuation of this project (and others!), feel free to [donate](http://www.adambell.ca/donate/)! It'd be much appreciated :D
+
+License?
+=============
+
+Pretty much the BSD license, just don't repackage it and call it your own please! 
+
+Also if you do make some changes, feel free to make a pull request and help make things more awesome!
+
+Contact Info?
+=============
+
+If you have any support requests please feel free to email me at postoffice[at]adambell[dot]me.
+
+Otherwise, feel free to follow me on twitter: [@b3ll](https://www.twitter.com/b3ll)!

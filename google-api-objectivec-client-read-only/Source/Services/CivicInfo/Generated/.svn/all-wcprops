@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/256/trunk/Source/Services/CivicInfo/Generated
+END
+GTLCivicInfoVoterInfoResponse.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/229/trunk/Source/Services/CivicInfo/Generated/GTLCivicInfoVoterInfoResponse.h
+END
+GTLCivicInfoElectionsQueryResponse.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/229/trunk/Source/Services/CivicInfo/Generated/GTLCivicInfoElectionsQueryResponse.h
+END
+GTLCivicInfoPollingLocation.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/256/trunk/Source/Services/CivicInfo/Generated/GTLCivicInfoPollingLocation.h
+END
+GTLCivicInfoElectionOfficial.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/223/trunk/Source/Services/CivicInfo/Generated/GTLCivicInfoElectionOfficial.h
+END
+GTLCivicInfoVoterInfoResponse.m
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/229/trunk/Source/Services/CivicInfo/Generated/GTLCivicInfoVoterInfoResponse.m
+END
+GTLCivicInfoElectionsQueryResponse.m
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/229/trunk/Source/Services/CivicInfo/Generated/GTLCivicInfoElectionsQueryResponse.m
+END
+GTLServiceCivicInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/223/trunk/Source/Services/CivicInfo/Generated/GTLServiceCivicInfo.h
+END
+GTLCivicInfoSource.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/223/trunk/Source/Services/CivicInfo/Generated/GTLCivicInfoSource.h
+END
+GTLCivicInfoSimpleAddressType.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/223/trunk/Source/Services/CivicInfo/Generated/GTLCivicInfoSimpleAddressType.h
+END
+GTLCivicInfoElection.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/223/trunk/Source/Services/CivicInfo/Generated/GTLCivicInfoElection.h
+END
+GTLCivicInfoPollingLocation.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/256/trunk/Source/Services/CivicInfo/Generated/GTLCivicInfoPollingLocation.m
+END
+GTLCivicInfoElectionOfficial.m
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/223/trunk/Source/Services/CivicInfo/Generated/GTLCivicInfoElectionOfficial.m
+END
+GTLServiceCivicInfo.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/223/trunk/Source/Services/CivicInfo/Generated/GTLServiceCivicInfo.m
+END
+GTLQueryCivicInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/256/trunk/Source/Services/CivicInfo/Generated/GTLQueryCivicInfo.h
+END
+GTLCivicInfoSource.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/223/trunk/Source/Services/CivicInfo/Generated/GTLCivicInfoSource.m
+END
+GTLCivicInfoSimpleAddressType.m
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/223/trunk/Source/Services/CivicInfo/Generated/GTLCivicInfoSimpleAddressType.m
+END
+GTLCivicInfoElection.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/223/trunk/Source/Services/CivicInfo/Generated/GTLCivicInfoElection.m
+END
+GTLQueryCivicInfo.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/223/trunk/Source/Services/CivicInfo/Generated/GTLQueryCivicInfo.m
+END
+GTLCivicInfoElectoralDistrict.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/223/trunk/Source/Services/CivicInfo/Generated/GTLCivicInfoElectoralDistrict.h
+END
+GTLCivicInfoElectoralDistrict.m
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/223/trunk/Source/Services/CivicInfo/Generated/GTLCivicInfoElectoralDistrict.m
+END
+GTLCivicInfo_Sources.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/225/trunk/Source/Services/CivicInfo/Generated/GTLCivicInfo_Sources.m
+END
+GTLCivicInfoAdministrationRegion.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/256/trunk/Source/Services/CivicInfo/Generated/GTLCivicInfoAdministrationRegion.h
+END
+GTLCivicInfoAdministrationRegion.m
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/256/trunk/Source/Services/CivicInfo/Generated/GTLCivicInfoAdministrationRegion.m
+END
+GTLCivicInfoAdministrativeBody.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/229/trunk/Source/Services/CivicInfo/Generated/GTLCivicInfoAdministrativeBody.h
+END
+GTLCivicInfoAdministrativeBody.m
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/223/trunk/Source/Services/CivicInfo/Generated/GTLCivicInfoAdministrativeBody.m
+END
+GTLCivicInfoChannel.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/223/trunk/Source/Services/CivicInfo/Generated/GTLCivicInfoChannel.h
+END
+GTLCivicInfoCandidate.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/223/trunk/Source/Services/CivicInfo/Generated/GTLCivicInfoCandidate.h
+END
+GTLCivicInfoChannel.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/223/trunk/Source/Services/CivicInfo/Generated/GTLCivicInfoChannel.m
+END
+GTLCivicInfoContest.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/256/trunk/Source/Services/CivicInfo/Generated/GTLCivicInfoContest.h
+END
+GTLCivicInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/223/trunk/Source/Services/CivicInfo/Generated/GTLCivicInfo.h
+END
+GTLCivicInfoCandidate.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/223/trunk/Source/Services/CivicInfo/Generated/GTLCivicInfoCandidate.m
+END
+GTLCivicInfoContest.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/256/trunk/Source/Services/CivicInfo/Generated/GTLCivicInfoContest.m
+END

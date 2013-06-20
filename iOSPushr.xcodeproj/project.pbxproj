@@ -1,0 +1,735 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		6601B0A21749DBA1003C1A88 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6601B0A11749DBA1003C1A88 /* Foundation.framework */; };
+		6601B0B21749DBA1003C1A88 /* iOSPushr.mm in Sources */ = {isa = PBXBuildFile; fileRef = 6601B0B11749DBA1003C1A88 /* iOSPushr.mm */; };
+		6601B57E1749E263003C1A88 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6601B0A11749DBA1003C1A88 /* Foundation.framework */; };
+		6601B5801749E263003C1A88 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6601B57F1749E263003C1A88 /* UIKit.framework */; };
+		6601B5821749E263003C1A88 /* Preferences.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6601B5811749E263003C1A88 /* Preferences.framework */; };
+		6601B58D1749E263003C1A88 /* iOSPushrPreferencesController.m in Sources */ = {isa = PBXBuildFile; fileRef = 6601B58C1749E263003C1A88 /* iOSPushrPreferencesController.m */; };
+		6601B5A21749E2C4003C1A88 /* Security.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6601B5A11749E2C4003C1A88 /* Security.framework */; };
+		6601B5A41749E2CE003C1A88 /* SystemConfiguration.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6601B5A31749E2CE003C1A88 /* SystemConfiguration.framework */; };
+		6601B5A61749E2D5003C1A88 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6601B5A51749E2D4003C1A88 /* CoreGraphics.framework */; };
+		6601B5A71749E2DF003C1A88 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6601B57F1749E263003C1A88 /* UIKit.framework */; };
+		6601B60D1749E68F003C1A88 /* libGTLTouchStaticLib.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 6601B5361749DCD4003C1A88 /* libGTLTouchStaticLib.a */; };
+		6601B60E1749E697003C1A88 /* Security.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6601B5A11749E2C4003C1A88 /* Security.framework */; };
+		6601B60F1749E6B6003C1A88 /* SystemConfiguration.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6601B5A31749E2CE003C1A88 /* SystemConfiguration.framework */; };
+		6601B6101749E6BD003C1A88 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6601B5A51749E2D4003C1A88 /* CoreGraphics.framework */; };
+		6601B6131749E71F003C1A88 /* libGTLTouchStaticLib.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 6601B5361749DCD4003C1A88 /* libGTLTouchStaticLib.a */; };
+		6601B6161749EB0E003C1A88 /* GTMOAuth2ViewTouch.xib in Sources */ = {isa = PBXBuildFile; fileRef = 6601B6151749EAA6003C1A88 /* GTMOAuth2ViewTouch.xib */; };
+		6601B6171749EB13003C1A88 /* GTMOAuth2ViewTouch.xib in Sources */ = {isa = PBXBuildFile; fileRef = 6601B6151749EAA6003C1A88 /* GTMOAuth2ViewTouch.xib */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		6601B5331749DCD4003C1A88 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 6601B52C1749DCD4003C1A88 /* GTL.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 4F38F6A60B66E91D00B24B81;
+			remoteInfo = GTLFramework;
+		};
+		6601B5351749DCD4003C1A88 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 6601B52C1749DCD4003C1A88 /* GTL.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 4F12027C11A4CA2F00BEB470;
+			remoteInfo = GTLTouchStaticLib;
+		};
+		6601B5371749DCD4003C1A88 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 6601B52C1749DCD4003C1A88 /* GTL.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 4F12027D11A4CA2F00BEB470;
+			remoteInfo = GTLUnitTests;
+		};
+		6601B5391749DCD4003C1A88 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 6601B52C1749DCD4003C1A88 /* GTL.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 4F1AD9020B71603F00DC0485;
+			remoteInfo = DevelopmentTestTool;
+		};
+		6601B5A81749E2F8003C1A88 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 6601B52C1749DCD4003C1A88 /* GTL.xcodeproj */;
+			proxyType = 1;
+			remoteGlobalIDString = 4F1C6E0E1027B3CE00B46459;
+			remoteInfo = GTLTouchStaticLib;
+		};
+		6601B60B1749E487003C1A88 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 6601B0951749DBA1003C1A88 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 6601B57C1749E263003C1A88;
+			remoteInfo = iOSPushrPreferences;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		6601B09E1749DBA1003C1A88 /* iOSPushr.dylib */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.dylib"; includeInIndex = 0; path = iOSPushr.dylib; sourceTree = BUILT_PRODUCTS_DIR; };
+		6601B0A11749DBA1003C1A88 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		6601B0A61749DBA1003C1A88 /* control.txt */ = {isa = PBXFileReference; lastKnownFileType = text; name = control.txt; path = Package/DEBIAN/control.txt; sourceTree = "<group>"; };
+		6601B0A71749DBA1003C1A88 /* control */ = {isa = PBXFileReference; lastKnownFileType = text; name = control; path = Package/DEBIAN/control; sourceTree = "<group>"; };
+		6601B0A91749DBA1003C1A88 /* PackageVersion.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = PackageVersion.plist; sourceTree = "<group>"; };
+		6601B0B01749DBA1003C1A88 /* iOSPushr-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "iOSPushr-Prefix.pch"; sourceTree = "<group>"; };
+		6601B0B11749DBA1003C1A88 /* iOSPushr.mm */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.objcpp; path = iOSPushr.mm; sourceTree = "<group>"; };
+		6601B0B51749DBA1003C1A88 /* iOSPushr.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = iOSPushr.plist; path = Package/Library/MobileSubstrate/DynamicLibraries/iOSPushr.plist; sourceTree = "<group>"; };
+		6601B52C1749DCD4003C1A88 /* GTL.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = GTL.xcodeproj; path = "google-api-objectivec-client-read-only/Source/GTL.xcodeproj"; sourceTree = SOURCE_ROOT; };
+		6601B57D1749E263003C1A88 /* iOSPushrPreferences.bundle */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = iOSPushrPreferences.bundle; sourceTree = BUILT_PRODUCTS_DIR; };
+		6601B57F1749E263003C1A88 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		6601B5811749E263003C1A88 /* Preferences.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Preferences.framework; path = Library/Frameworks/Preferences.framework; sourceTree = DEVELOPER_DIR; };
+		6601B5871749E263003C1A88 /* control */ = {isa = PBXFileReference; lastKnownFileType = text; name = control; path = Package/DEBIAN/control; sourceTree = "<group>"; };
+		6601B5891749E263003C1A88 /* PackageVersion.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = PackageVersion.plist; sourceTree = "<group>"; };
+		6601B58A1749E263003C1A88 /* iOSPushrPreferences-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "iOSPushrPreferences-Info.plist"; sourceTree = "<group>"; };
+		6601B58B1749E263003C1A88 /* iOSPushrPreferencesController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = iOSPushrPreferencesController.h; sourceTree = "<group>"; };
+		6601B58C1749E263003C1A88 /* iOSPushrPreferencesController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = iOSPushrPreferencesController.m; sourceTree = "<group>"; };
+		6601B5911749E263003C1A88 /* iOSPushrPreferences.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = iOSPushrPreferences.plist; path = Package/Library/PreferenceLoader/Preferences/iOSPushrPreferences.plist; sourceTree = "<group>"; };
+		6601B5941749E263003C1A88 /* iOSPushrPreferences.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = iOSPushrPreferences.plist; path = Package/Library/PreferenceBundles/iOSPushrPreferences.bundle/iOSPushrPreferences.plist; sourceTree = "<group>"; };
+		6601B5951749E263003C1A88 /* iOSPushrPreferencesIcon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = iOSPushrPreferencesIcon.png; path = Package/Library/PreferenceBundles/iOSPushrPreferences.bundle/iOSPushrPreferencesIcon.png; sourceTree = "<group>"; };
+		6601B5961749E263003C1A88 /* iOSPushrPreferencesIcon@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "iOSPushrPreferencesIcon@2x.png"; path = "Package/Library/PreferenceBundles/iOSPushrPreferences.bundle/iOSPushrPreferencesIcon@2x.png"; sourceTree = "<group>"; };
+		6601B59B1749E263003C1A88 /* ca.adambell.iOSPushrPreferences.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = ca.adambell.iOSPushrPreferences.plist; path = Package/var/mobile/Library/Preferences/ca.adambell.iOSPushrPreferences.plist; sourceTree = "<group>"; };
+		6601B59C1749E263003C1A88 /* iOSPushrPreferences-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "iOSPushrPreferences-Prefix.pch"; sourceTree = "<group>"; };
+		6601B5A11749E2C4003C1A88 /* Security.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Security.framework; path = System/Library/Frameworks/Security.framework; sourceTree = SDKROOT; };
+		6601B5A31749E2CE003C1A88 /* SystemConfiguration.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SystemConfiguration.framework; path = System/Library/Frameworks/SystemConfiguration.framework; sourceTree = SDKROOT; };
+		6601B5A51749E2D4003C1A88 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		6601B6111749E70F003C1A88 /* iOSPushrPreferences.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; name = iOSPushrPreferences.bundle; path = iOSPushr/Package/Library/PreferenceBundles/iOSPushrPreferences.bundle; sourceTree = "<group>"; };
+		6601B6151749EAA6003C1A88 /* GTMOAuth2ViewTouch.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = GTMOAuth2ViewTouch.xib; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		6601B09A1749DBA1003C1A88 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				6601B6131749E71F003C1A88 /* libGTLTouchStaticLib.a in Frameworks */,
+				6601B5A71749E2DF003C1A88 /* UIKit.framework in Frameworks */,
+				6601B5A61749E2D5003C1A88 /* CoreGraphics.framework in Frameworks */,
+				6601B5A41749E2CE003C1A88 /* SystemConfiguration.framework in Frameworks */,
+				6601B5A21749E2C4003C1A88 /* Security.framework in Frameworks */,
+				6601B0A21749DBA1003C1A88 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		6601B5791749E263003C1A88 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				6601B6101749E6BD003C1A88 /* CoreGraphics.framework in Frameworks */,
+				6601B60F1749E6B6003C1A88 /* SystemConfiguration.framework in Frameworks */,
+				6601B60E1749E697003C1A88 /* Security.framework in Frameworks */,
+				6601B60D1749E68F003C1A88 /* libGTLTouchStaticLib.a in Frameworks */,
+				6601B57E1749E263003C1A88 /* Foundation.framework in Frameworks */,
+				6601B5801749E263003C1A88 /* UIKit.framework in Frameworks */,
+				6601B5821749E263003C1A88 /* Preferences.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		6601B0941749DBA1003C1A88 = {
+			isa = PBXGroup;
+			children = (
+				6601B6111749E70F003C1A88 /* iOSPushrPreferences.bundle */,
+				6601B5A51749E2D4003C1A88 /* CoreGraphics.framework */,
+				6601B5A31749E2CE003C1A88 /* SystemConfiguration.framework */,
+				6601B5A11749E2C4003C1A88 /* Security.framework */,
+				6601B0A31749DBA1003C1A88 /* iOSPushr */,
+				6601B5831749E263003C1A88 /* iOSPushrPreferences */,
+				6601B0A01749DBA1003C1A88 /* Frameworks */,
+				6601B09F1749DBA1003C1A88 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		6601B09F1749DBA1003C1A88 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				6601B09E1749DBA1003C1A88 /* iOSPushr.dylib */,
+				6601B57D1749E263003C1A88 /* iOSPushrPreferences.bundle */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		6601B0A01749DBA1003C1A88 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				6601B0A11749DBA1003C1A88 /* Foundation.framework */,
+				6601B57F1749E263003C1A88 /* UIKit.framework */,
+				6601B5811749E263003C1A88 /* Preferences.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		6601B0A31749DBA1003C1A88 /* iOSPushr */ = {
+			isa = PBXGroup;
+			children = (
+				6601B52C1749DCD4003C1A88 /* GTL.xcodeproj */,
+				6601B0B11749DBA1003C1A88 /* iOSPushr.mm */,
+				6601B0A41749DBA1003C1A88 /* Package */,
+				6601B0A81749DBA1003C1A88 /* Supporting Files */,
+			);
+			path = iOSPushr;
+			sourceTree = "<group>";
+		};
+		6601B0A41749DBA1003C1A88 /* Package */ = {
+			isa = PBXGroup;
+			children = (
+				6601B0A51749DBA1003C1A88 /* DEBIAN */,
+				6601B0AA1749DBA1003C1A88 /* Library */,
+			);
+			name = Package;
+			sourceTree = "<group>";
+		};
+		6601B0A51749DBA1003C1A88 /* DEBIAN */ = {
+			isa = PBXGroup;
+			children = (
+				6601B0A61749DBA1003C1A88 /* control.txt */,
+				6601B0A71749DBA1003C1A88 /* control */,
+			);
+			name = DEBIAN;
+			sourceTree = "<group>";
+		};
+		6601B0A81749DBA1003C1A88 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				6601B0A91749DBA1003C1A88 /* PackageVersion.plist */,
+				6601B0B01749DBA1003C1A88 /* iOSPushr-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		6601B0AA1749DBA1003C1A88 /* Library */ = {
+			isa = PBXGroup;
+			children = (
+				6601B0B31749DBA1003C1A88 /* MobileSubstrate */,
+			);
+			name = Library;
+			sourceTree = "<group>";
+		};
+		6601B0B31749DBA1003C1A88 /* MobileSubstrate */ = {
+			isa = PBXGroup;
+			children = (
+				6601B0B41749DBA1003C1A88 /* DynamicLibraries */,
+			);
+			name = MobileSubstrate;
+			sourceTree = "<group>";
+		};
+		6601B0B41749DBA1003C1A88 /* DynamicLibraries */ = {
+			isa = PBXGroup;
+			children = (
+				6601B0B51749DBA1003C1A88 /* iOSPushr.plist */,
+			);
+			name = DynamicLibraries;
+			sourceTree = "<group>";
+		};
+		6601B52D1749DCD4003C1A88 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				6601B5341749DCD4003C1A88 /* GTL.framework */,
+				6601B5361749DCD4003C1A88 /* libGTLTouchStaticLib.a */,
+				6601B5381749DCD4003C1A88 /* GTLUnitTests.octest */,
+				6601B53A1749DCD4003C1A88 /* DevelopmentTestTool */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		6601B5831749E263003C1A88 /* iOSPushrPreferences */ = {
+			isa = PBXGroup;
+			children = (
+				6601B58B1749E263003C1A88 /* iOSPushrPreferencesController.h */,
+				6601B58C1749E263003C1A88 /* iOSPushrPreferencesController.m */,
+				6601B6151749EAA6003C1A88 /* GTMOAuth2ViewTouch.xib */,
+				6601B5841749E263003C1A88 /* Package */,
+				6601B5881749E263003C1A88 /* Supporting Files */,
+			);
+			path = iOSPushrPreferences;
+			sourceTree = "<group>";
+		};
+		6601B5841749E263003C1A88 /* Package */ = {
+			isa = PBXGroup;
+			children = (
+				6601B5851749E263003C1A88 /* DEBIAN */,
+				6601B58E1749E263003C1A88 /* Library */,
+				6601B5971749E263003C1A88 /* var */,
+			);
+			name = Package;
+			sourceTree = "<group>";
+		};
+		6601B5851749E263003C1A88 /* DEBIAN */ = {
+			isa = PBXGroup;
+			children = (
+				6601B5871749E263003C1A88 /* control */,
+			);
+			name = DEBIAN;
+			sourceTree = "<group>";
+		};
+		6601B5881749E263003C1A88 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				6601B5891749E263003C1A88 /* PackageVersion.plist */,
+				6601B58A1749E263003C1A88 /* iOSPushrPreferences-Info.plist */,
+				6601B59C1749E263003C1A88 /* iOSPushrPreferences-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		6601B58E1749E263003C1A88 /* Library */ = {
+			isa = PBXGroup;
+			children = (
+				6601B58F1749E263003C1A88 /* PreferenceLoader */,
+				6601B5921749E263003C1A88 /* PreferenceBundles */,
+			);
+			name = Library;
+			sourceTree = "<group>";
+		};
+		6601B58F1749E263003C1A88 /* PreferenceLoader */ = {
+			isa = PBXGroup;
+			children = (
+				6601B5901749E263003C1A88 /* Preferences */,
+			);
+			name = PreferenceLoader;
+			sourceTree = "<group>";
+		};
+		6601B5901749E263003C1A88 /* Preferences */ = {
+			isa = PBXGroup;
+			children = (
+				6601B5911749E263003C1A88 /* iOSPushrPreferences.plist */,
+			);
+			name = Preferences;
+			sourceTree = "<group>";
+		};
+		6601B5921749E263003C1A88 /* PreferenceBundles */ = {
+			isa = PBXGroup;
+			children = (
+				6601B5931749E263003C1A88 /* ___PACKAGENAME___.bundle */,
+			);
+			name = PreferenceBundles;
+			sourceTree = "<group>";
+		};
+		6601B5931749E263003C1A88 /* ___PACKAGENAME___.bundle */ = {
+			isa = PBXGroup;
+			children = (
+				6601B5941749E263003C1A88 /* iOSPushrPreferences.plist */,
+				6601B5951749E263003C1A88 /* iOSPushrPreferencesIcon.png */,
+				6601B5961749E263003C1A88 /* iOSPushrPreferencesIcon@2x.png */,
+			);
+			name = "___PACKAGENAME___.bundle";
+			sourceTree = "<group>";
+		};
+		6601B5971749E263003C1A88 /* var */ = {
+			isa = PBXGroup;
+			children = (
+				6601B5981749E263003C1A88 /* mobile */,
+			);
+			name = var;
+			sourceTree = "<group>";
+		};
+		6601B5981749E263003C1A88 /* mobile */ = {
+			isa = PBXGroup;
+			children = (
+				6601B5991749E263003C1A88 /* Library */,
+			);
+			name = mobile;
+			sourceTree = "<group>";
+		};
+		6601B5991749E263003C1A88 /* Library */ = {
+			isa = PBXGroup;
+			children = (
+				6601B59A1749E263003C1A88 /* Preferences */,
+			);
+			name = Library;
+			sourceTree = "<group>";
+		};
+		6601B59A1749E263003C1A88 /* Preferences */ = {
+			isa = PBXGroup;
+			children = (
+				6601B59B1749E263003C1A88 /* ca.adambell.iOSPushrPreferences.plist */,
+			);
+			name = Preferences;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXHeadersBuildPhase section */
+		6601B09B1749DBA1003C1A88 /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		6601B57A1749E263003C1A88 /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXHeadersBuildPhase section */
+
+/* Begin PBXNativeTarget section */
+		6601B09D1749DBA1003C1A88 /* iOSPushr */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 6601B0B81749DBA1003C1A88 /* Build configuration list for PBXNativeTarget "iOSPushr" */;
+			buildPhases = (
+				6601B0991749DBA1003C1A88 /* Sources */,
+				6601B09A1749DBA1003C1A88 /* Frameworks */,
+				6601B09B1749DBA1003C1A88 /* Headers */,
+				6601B09C1749DBA1003C1A88 /* ShellScript */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				6601B5A91749E2F8003C1A88 /* PBXTargetDependency */,
+				6601B60C1749E487003C1A88 /* PBXTargetDependency */,
+			);
+			name = iOSPushr;
+			productName = iOSPushr;
+			productReference = 6601B09E1749DBA1003C1A88 /* iOSPushr.dylib */;
+			productType = "com.apple.product-type.library.dynamic";
+		};
+		6601B57C1749E263003C1A88 /* iOSPushrPreferences */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 6601B59D1749E263003C1A88 /* Build configuration list for PBXNativeTarget "iOSPushrPreferences" */;
+			buildPhases = (
+				6601B5781749E263003C1A88 /* Sources */,
+				6601B5791749E263003C1A88 /* Frameworks */,
+				6601B57A1749E263003C1A88 /* Headers */,
+				6601B57B1749E263003C1A88 /* ShellScript */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = iOSPushrPreferences;
+			productName = iOSPushrPreferences;
+			productReference = 6601B57D1749E263003C1A88 /* iOSPushrPreferences.bundle */;
+			productType = "com.apple.product-type.bundle";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		6601B0951749DBA1003C1A88 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0460;
+			};
+			buildConfigurationList = 6601B0981749DBA1003C1A88 /* Build configuration list for PBXProject "iOSPushr" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 6601B0941749DBA1003C1A88;
+			productRefGroup = 6601B09F1749DBA1003C1A88 /* Products */;
+			projectDirPath = "";
+			projectReferences = (
+				{
+					ProductGroup = 6601B52D1749DCD4003C1A88 /* Products */;
+					ProjectRef = 6601B52C1749DCD4003C1A88 /* GTL.xcodeproj */;
+				},
+			);
+			projectRoot = "";
+			targets = (
+				6601B09D1749DBA1003C1A88 /* iOSPushr */,
+				6601B57C1749E263003C1A88 /* iOSPushrPreferences */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXReferenceProxy section */
+		6601B5341749DCD4003C1A88 /* GTL.framework */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.framework;
+			path = GTL.framework;
+			remoteRef = 6601B5331749DCD4003C1A88 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		6601B5361749DCD4003C1A88 /* libGTLTouchStaticLib.a */ = {
+			isa = PBXReferenceProxy;
+			fileType = archive.ar;
+			path = libGTLTouchStaticLib.a;
+			remoteRef = 6601B5351749DCD4003C1A88 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		6601B5381749DCD4003C1A88 /* GTLUnitTests.octest */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.cfbundle;
+			path = GTLUnitTests.octest;
+			remoteRef = 6601B5371749DCD4003C1A88 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		6601B53A1749DCD4003C1A88 /* DevelopmentTestTool */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			path = DevelopmentTestTool;
+			remoteRef = 6601B5391749DCD4003C1A88 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+/* End PBXReferenceProxy section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		6601B09C1749DBA1003C1A88 /* ShellScript */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "/opt/iOSOpenDev/bin/iosod --xcbp";
+		};
+		6601B57B1749E263003C1A88 /* ShellScript */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "/opt/iOSOpenDev/bin/iosod --xcbp\ncp -r ${PROJECT_DIR}/iOSPushrPreferences/Package/var ${PROJECT_DIR}/iOSPushr/Package/\ncp -r ${PROJECT_DIR}/iOSPushrPreferences/Package/Library/* ${PROJECT_DIR}/iOSPushr/Package/Library/";
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		6601B0991749DBA1003C1A88 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				6601B6161749EB0E003C1A88 /* GTMOAuth2ViewTouch.xib in Sources */,
+				6601B0B21749DBA1003C1A88 /* iOSPushr.mm in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		6601B5781749E263003C1A88 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				6601B6171749EB13003C1A88 /* GTMOAuth2ViewTouch.xib in Sources */,
+				6601B58D1749E263003C1A88 /* iOSPushrPreferencesController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		6601B5A91749E2F8003C1A88 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = GTLTouchStaticLib;
+			targetProxy = 6601B5A81749E2F8003C1A88 /* PBXContainerItemProxy */;
+		};
+		6601B60C1749E487003C1A88 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 6601B57C1749E263003C1A88 /* iOSPushrPreferences */;
+			targetProxy = 6601B60B1749E487003C1A88 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		6601B0B61749DBA1003C1A88 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CLANG_ENABLE_OBJC_ARC = YES;
+				COPY_PHASE_STRIP = NO;
+				EXCLUDED_RECURSIVE_SEARCH_PATH_SUBDIRECTORIES = "*.nib *.lproj *.gch (*) .DS_Store CVS .svn .git .hg *.xcodeproj *.xcode *.pbproj *.pbxproj";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(iOSOpenDevPath)/frameworks/**",
+					"$(SDKROOT)/System/Library/PrivateFrameworks",
+				);
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				HEADER_SEARCH_PATHS = "$(iOSOpenDevPath)/include/**";
+				IPHONEOS_DEPLOYMENT_TARGET = 6.1;
+				LIBRARY_SEARCH_PATHS = "$(iOSOpenDevPath)/lib/**";
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = NO;
+				iOSOpenDevPath = /opt/iOSOpenDev;
+			};
+			name = Debug;
+		};
+		6601B0B71749DBA1003C1A88 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CLANG_ENABLE_OBJC_ARC = YES;
+				COPY_PHASE_STRIP = YES;
+				EXCLUDED_RECURSIVE_SEARCH_PATH_SUBDIRECTORIES = "*.nib *.lproj *.gch (*) .DS_Store CVS .svn .git .hg *.xcodeproj *.xcode *.pbproj *.pbxproj";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(iOSOpenDevPath)/frameworks/**",
+					"$(SDKROOT)/System/Library/PrivateFrameworks",
+				);
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				HEADER_SEARCH_PATHS = "$(iOSOpenDevPath)/include/**";
+				IPHONEOS_DEPLOYMENT_TARGET = 6.1;
+				LIBRARY_SEARCH_PATHS = "$(iOSOpenDevPath)/lib/**";
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+				iOSOpenDevPath = /opt/iOSOpenDev;
+			};
+			name = Release;
+		};
+		6601B0B91749DBA1003C1A88 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "";
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "iOSPushr/iOSPushr-Prefix.pch";
+				HEADER_SEARCH_PATHS = (
+					"$(iOSOpenDevPath)/include/**",
+					"$(PROJECT_DIR)/**",
+				);
+				INSTALL_PATH = /Library/MobileSubstrate/DynamicLibraries;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				iOSOpenDevBuildPackageOnAnyBuild = YES;
+				iOSOpenDevCopyOnBuild = NO;
+				iOSOpenDevDevice = 10.0.1.183;
+				iOSOpenDevInstallOnAnyBuild = YES;
+				iOSOpenDevInstallOnProfiling = YES;
+				iOSOpenDevRespringOnInstall = YES;
+				iOSOpenDevUsePackageVersionPList = YES;
+			};
+			name = Debug;
+		};
+		6601B0BA1749DBA1003C1A88 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "";
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "iOSPushr/iOSPushr-Prefix.pch";
+				HEADER_SEARCH_PATHS = (
+					"$(iOSOpenDevPath)/include/**",
+					"$(PROJECT_DIR)/**",
+				);
+				INSTALL_PATH = /Library/MobileSubstrate/DynamicLibraries;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				iOSOpenDevBuildPackageOnAnyBuild = YES;
+				iOSOpenDevCopyOnBuild = NO;
+				iOSOpenDevDevice = 10.0.1.183;
+				iOSOpenDevInstallOnAnyBuild = YES;
+				iOSOpenDevInstallOnProfiling = YES;
+				iOSOpenDevRespringOnInstall = YES;
+				iOSOpenDevUsePackageVersionPList = YES;
+			};
+			name = Release;
+		};
+		6601B59E1749E263003C1A88 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"\"$(SYSTEM_APPS_DIR)/Xcode.app/Contents/Developer/Library/Frameworks\"",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "iOSPushrPreferences/iOSPushrPreferences-Prefix.pch";
+				HEADER_SEARCH_PATHS = (
+					"$(iOSOpenDevPath)/include/**",
+					"$(PROJECT_DIR)/**",
+				);
+				INFOPLIST_FILE = "iOSPushrPreferences/iOSPushrPreferences-Info.plist";
+				INSTALL_PATH = /Library/PreferenceBundles;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = bundle;
+				iOSOpenDevBuildPackageOnAnyBuild = YES;
+				iOSOpenDevCopyOnBuild = NO;
+				iOSOpenDevDevice = "";
+				iOSOpenDevInstallOnAnyBuild = NO;
+				iOSOpenDevInstallOnProfiling = YES;
+				iOSOpenDevRespringOnInstall = YES;
+				iOSOpenDevUsePackageVersionPList = YES;
+			};
+			name = Debug;
+		};
+		6601B59F1749E263003C1A88 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"\"$(SYSTEM_APPS_DIR)/Xcode.app/Contents/Developer/Library/Frameworks\"",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "iOSPushrPreferences/iOSPushrPreferences-Prefix.pch";
+				HEADER_SEARCH_PATHS = (
+					"$(iOSOpenDevPath)/include/**",
+					"$(PROJECT_DIR)/**",
+				);
+				INFOPLIST_FILE = "iOSPushrPreferences/iOSPushrPreferences-Info.plist";
+				INSTALL_PATH = /Library/PreferenceBundles;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = bundle;
+				iOSOpenDevBuildPackageOnAnyBuild = YES;
+				iOSOpenDevCopyOnBuild = NO;
+				iOSOpenDevDevice = "";
+				iOSOpenDevInstallOnAnyBuild = NO;
+				iOSOpenDevInstallOnProfiling = YES;
+				iOSOpenDevRespringOnInstall = YES;
+				iOSOpenDevUsePackageVersionPList = YES;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		6601B0981749DBA1003C1A88 /* Build configuration list for PBXProject "iOSPushr" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				6601B0B61749DBA1003C1A88 /* Debug */,
+				6601B0B71749DBA1003C1A88 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		6601B0B81749DBA1003C1A88 /* Build configuration list for PBXNativeTarget "iOSPushr" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				6601B0B91749DBA1003C1A88 /* Debug */,
+				6601B0BA1749DBA1003C1A88 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		6601B59D1749E263003C1A88 /* Build configuration list for PBXNativeTarget "iOSPushrPreferences" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				6601B59E1749E263003C1A88 /* Debug */,
+				6601B59F1749E263003C1A88 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 6601B0951749DBA1003C1A88 /* Project object */;
+}

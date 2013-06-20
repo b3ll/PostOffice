@@ -1,0 +1,245 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/305/trunk/Source/Services/AdSense/Generated
+END
+GTLAdSense.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/305/trunk/Source/Services/AdSense/Generated/GTLAdSense.h
+END
+GTLAdSenseSavedReports.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/305/trunk/Source/Services/AdSense/Generated/GTLAdSenseSavedReports.h
+END
+GTLAdSenseSavedReports.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/305/trunk/Source/Services/AdSense/Generated/GTLAdSenseSavedReports.m
+END
+GTLAdSenseCustomChannels.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/305/trunk/Source/Services/AdSense/Generated/GTLAdSenseCustomChannels.h
+END
+GTLAdSenseSavedAdStyle.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/305/trunk/Source/Services/AdSense/Generated/GTLAdSenseSavedAdStyle.h
+END
+GTLAdSenseAdsenseReportsGenerateResponse.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/305/trunk/Source/Services/AdSense/Generated/GTLAdSenseAdsenseReportsGenerateResponse.h
+END
+GTLAdSenseCustomChannels.m
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/305/trunk/Source/Services/AdSense/Generated/GTLAdSenseCustomChannels.m
+END
+GTLAdSenseAccount.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/305/trunk/Source/Services/AdSense/Generated/GTLAdSenseAccount.h
+END
+GTLAdSenseSavedAdStyle.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/305/trunk/Source/Services/AdSense/Generated/GTLAdSenseSavedAdStyle.m
+END
+GTLAdSenseAdsenseReportsGenerateResponse.m
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/305/trunk/Source/Services/AdSense/Generated/GTLAdSenseAdsenseReportsGenerateResponse.m
+END
+GTLServiceAdSense.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/305/trunk/Source/Services/AdSense/Generated/GTLServiceAdSense.h
+END
+GTLAdSenseAccount.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/305/trunk/Source/Services/AdSense/Generated/GTLAdSenseAccount.m
+END
+GTLAdSenseCustomChannel.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/305/trunk/Source/Services/AdSense/Generated/GTLAdSenseCustomChannel.h
+END
+GTLQueryAdSense.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/305/trunk/Source/Services/AdSense/Generated/GTLQueryAdSense.h
+END
+GTLServiceAdSense.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/305/trunk/Source/Services/AdSense/Generated/GTLServiceAdSense.m
+END
+GTLAdSenseAdClients.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/305/trunk/Source/Services/AdSense/Generated/GTLAdSenseAdClients.h
+END
+GTLAdSenseCustomChannel.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/305/trunk/Source/Services/AdSense/Generated/GTLAdSenseCustomChannel.m
+END
+GTLQueryAdSense.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/305/trunk/Source/Services/AdSense/Generated/GTLQueryAdSense.m
+END
+GTLAdSenseAdClients.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/305/trunk/Source/Services/AdSense/Generated/GTLAdSenseAdClients.m
+END
+GTLAdSenseSavedAdStyles.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/305/trunk/Source/Services/AdSense/Generated/GTLAdSenseSavedAdStyles.h
+END
+GTLAdSenseConstants.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/305/trunk/Source/Services/AdSense/Generated/GTLAdSenseConstants.h
+END
+GTLAdSenseUrlChannels.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/305/trunk/Source/Services/AdSense/Generated/GTLAdSenseUrlChannels.h
+END
+GTLAdSenseAccounts.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/305/trunk/Source/Services/AdSense/Generated/GTLAdSenseAccounts.h
+END
+GTLAdSenseSavedAdStyles.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/305/trunk/Source/Services/AdSense/Generated/GTLAdSenseSavedAdStyles.m
+END
+GTLAdSenseConstants.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/305/trunk/Source/Services/AdSense/Generated/GTLAdSenseConstants.m
+END
+GTLAdSenseAdClient.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/305/trunk/Source/Services/AdSense/Generated/GTLAdSenseAdClient.h
+END
+GTLAdSenseUrlChannels.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/305/trunk/Source/Services/AdSense/Generated/GTLAdSenseUrlChannels.m
+END
+GTLAdSenseAccounts.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/305/trunk/Source/Services/AdSense/Generated/GTLAdSenseAccounts.m
+END
+GTLAdSenseAdUnit.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/305/trunk/Source/Services/AdSense/Generated/GTLAdSenseAdUnit.h
+END
+GTLAdSense_Sources.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/305/trunk/Source/Services/AdSense/Generated/GTLAdSense_Sources.m
+END
+GTLAdSenseAdClient.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/305/trunk/Source/Services/AdSense/Generated/GTLAdSenseAdClient.m
+END
+GTLAdSenseAdUnit.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/305/trunk/Source/Services/AdSense/Generated/GTLAdSenseAdUnit.m
+END
+GTLAdSenseUrlChannel.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/305/trunk/Source/Services/AdSense/Generated/GTLAdSenseUrlChannel.h
+END
+GTLAdSenseSavedReport.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/305/trunk/Source/Services/AdSense/Generated/GTLAdSenseSavedReport.h
+END
+GTLAdSenseUrlChannel.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/305/trunk/Source/Services/AdSense/Generated/GTLAdSenseUrlChannel.m
+END
+GTLAdSenseSavedReport.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/305/trunk/Source/Services/AdSense/Generated/GTLAdSenseSavedReport.m
+END
+GTLAdSenseAdStyle.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/305/trunk/Source/Services/AdSense/Generated/GTLAdSenseAdStyle.h
+END
+GTLAdSenseAdUnits.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/305/trunk/Source/Services/AdSense/Generated/GTLAdSenseAdUnits.h
+END
+GTLAdSenseAdStyle.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/305/trunk/Source/Services/AdSense/Generated/GTLAdSenseAdStyle.m
+END
+GTLAdSenseAdUnits.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/305/trunk/Source/Services/AdSense/Generated/GTLAdSenseAdUnits.m
+END
