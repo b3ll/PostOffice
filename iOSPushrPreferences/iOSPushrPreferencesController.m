@@ -31,6 +31,8 @@
 
 - (void)showGoogleSignin:(id)sender
 {
+    [self signout:nil];
+    
     NSDictionary *prefs = [[NSDictionary alloc] initWithContentsOfFile:[kPrefs_Path stringByAppendingPathComponent:@"ca.adambell.postoffice.plist"]];
     NSString *clientID = prefs[@"clientID"];
     NSString *clientSecret = prefs[@"clientSecret"];
