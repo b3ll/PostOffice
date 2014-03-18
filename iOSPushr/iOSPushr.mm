@@ -14,8 +14,10 @@
 #import "GTLMirror.h"
 #import "GTMOAuth2ViewControllerTouch.h"
 
-#define CLIENT_ID @"ID"
-#define CLIENT_SECRET @"SECRET"
+#define CLIENT_ID @""
+#define CLIENT_SECRET @""
+
+#define kPrefs_Path @"/var/mobile/Library/Preferences"
 
 #include <notify.h>
 
@@ -50,27 +52,34 @@
 {    
     __strong static id _sharedSelf = nil;
     
-    static dispatch_once_t D = 0;
+    static dispatch_once_t p = 0;
 
     dispatch_once(&p, ^{
-        _sharedInstance = [[self alloc] init];
+        _sharedSelf = [[self alloc] init];
     });
     
-    return _sharedInstance;
+    return _sharedSelf;
 }
 
 - (void)presentGoogleSigninFromViewController:(UIViewController *)controller
 {
+    NSDictionary *prefs = [[NSDictionary alloc] initWithContentsOfFile:[kPrefs_Path stringByAppendingPathComponent:@"ca.adambell.postoffice.plist"]];
+    NSString *clientID = prefs[@"clientID"];
+    NSString *clientSecret = prefs[@"clientSecret"];
+    
+    if (clientID == nil || clientID.length == 0 || clientSecret == nil || clientSecret.length == 0) {
+        return;
+    }
     
     GTMOAuth2Authentication *auth = [GTMOAuth2ViewControllerTouch authForGoogleFromKeychainForName:@"Pushr-iOS-OAuth"
-                                                                                          clientID:CLIENT_ID
-                                                                                      clientSecret:CLIENT_SECRET];
+                                                                                          clientID:clientID
+                                                                                      clientSecret:clientSecret];
     if (auth == nil)
     {
         
         GTMOAuth2ViewControllerTouch *vc = [[GTMOAuth2ViewControllerTouch alloc] initWithScope:@"https://www.googleapis.com/auth/glass.timeline"
-                                                                                      clientID:CLIENT_ID
-                                                                                  clientSecret:CLIENT_SECRET
+                                                                                      clientID:clientID
+                                                                                  clientSecret:clientSecret
                                                                               keychainItemName:@"Pushr-iOS-OAuth"
                                                                              completionHandler:^(GTMOAuth2ViewControllerTouch *viewController, GTMOAuth2Authentication *_auth, NSError *error) {
                                                                                  
@@ -89,12 +98,20 @@
 
 - (void)postNotificationFromApplication:(NSString *)application withMessage:(NSString *)message andBanner:(SBBulletinBannerItem *)view
 {
+    NSDictionary *prefs = [[NSDictionary alloc] initWithContentsOfFile:[kPrefs_Path stringByAppendingPathComponent:@"ca.adambell.postoffice.plist"]];
+    NSString *clientID = prefs[@"clientID"];
+    NSString *clientSecret = prefs[@"clientSecret"];
+    
+    if (clientID == nil || clientID.length == 0 || clientSecret == nil || clientSecret.length == 0) {
+        return;
+    }
+    
     _mirrorService = [[GTLServiceMirror alloc] init];
     
-    NSLog(@"POSTING NOTIFICATION");
+    //NSLog(@"POSTING NOTIFICATION");
     GTMOAuth2Authentication *auth = [GTMOAuth2ViewControllerTouch authForGoogleFromKeychainForName:@"Pushr-iOS-OAuth"
-                                                                                          clientID:CLIENT_ID
-                                                                                      clientSecret:CLIENT_SECRET];
+                                                                                          clientID:clientID
+                                                                                      clientSecret:clientSecret];
     self.mirrorService.authorizer = auth;
     
     GTLMirrorTimelineItem *item = [[GTLMirrorTimelineItem alloc] init];
@@ -115,11 +132,11 @@
     
     [self.mirrorService executeQuery:post
                    completionHandler:^(GTLServiceTicket *ticket, id object, NSError *error) {
-                       NSLog(@"posted");
-                       NSLog(@"ticket: %@", ticket);
-                       NSLog(@"obj: %@", object);
-                       NSLog(@"error: %@", error);
-                       NSLog(@"%@", [(GTLMirrorTimelineItem *)object html]);
+                       //NSLog(@"posted");
+                       //NSLog(@"ticket: %@", ticket);
+                       //NSLog(@"obj: %@", object);
+                       //NSLog(@"error: %@", error);
+                       //NSLog(@"%@", [(GTLMirrorTimelineItem *)object html]);
                    }];
 }
 

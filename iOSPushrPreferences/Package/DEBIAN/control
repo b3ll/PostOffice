@@ -3,7 +3,7 @@ Name: iOSPushrPreferences
 Version: 1.0-1
 Description: 
 Section: PreferenceBundles
-Depends: firmware (>= 5.0), mobilesubstrate, preferenceloader
+Depends: firmware (>= 6.0), mobilesubstrate, preferenceloader
 Conflicts: 
 Replaces: 
 Priority: optional

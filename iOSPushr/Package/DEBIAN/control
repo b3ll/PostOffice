@@ -1,9 +1,9 @@
 Package: ca.adambell.iOSPushr
 Name: iOSPushr
-Version: 1.0-1
+Version: 1.1-1
 Description: 
 Section: Tweaks
-Depends: firmware (>= 5.0), mobilesubstrate
+Depends: firmware (>= 6.0), mobilesubstrate
 Conflicts: 
 Replaces: 
 Priority: optional

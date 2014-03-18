@@ -247,7 +247,6 @@
 		6601B6081749E330003C1A88 /* GTLServiceMirror.h in Headers */ = {isa = PBXBuildFile; fileRef = 6601B5D01749E330003C1A88 /* GTLServiceMirror.h */; };
 		6601B6091749E330003C1A88 /* GTLServiceMirror.m in Sources */ = {isa = PBXBuildFile; fileRef = 6601B5D11749E330003C1A88 /* GTLServiceMirror.m */; };
 		6601B60A1749E330003C1A88 /* GTLServiceMirror.m in Sources */ = {isa = PBXBuildFile; fileRef = 6601B5D11749E330003C1A88 /* GTLServiceMirror.m */; };
-		6601B6141749EA1E003C1A88 /* GTMOAuth2ViewTouch.xib in Sources */ = {isa = PBXBuildFile; fileRef = 4F697FBD131C1A6800A5AB6A /* GTMOAuth2ViewTouch.xib */; };
 		F40E7366138A03CA00EE3F02 /* GTLQueryTasks.m in Sources */ = {isa = PBXBuildFile; fileRef = F47C37F7134B08EF00CCF631 /* GTLQueryTasks.m */; };
 		F40E7367138A03CA00EE3F02 /* GTLServiceTasks.m in Sources */ = {isa = PBXBuildFile; fileRef = F47C37F9134B08EF00CCF631 /* GTLServiceTasks.m */; };
 		F40E7368138A03CA00EE3F02 /* GTLTasksConstants.m in Sources */ = {isa = PBXBuildFile; fileRef = F407F0FF136F948A005A4866 /* GTLTasksConstants.m */; };
@@ -955,7 +954,7 @@
 		089C1669FE841209C02AAC07 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastUpgradeCheck = 0440;
+				LastUpgradeCheck = 0510;
 			};
 			buildConfigurationList = 1DEB913E08733D840010E9CD /* Build configuration list for PBXProject "GTL" */;
 			compatibilityVersion = "Xcode 3.2";
@@ -1114,7 +1113,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				6601B6141749EA1E003C1A88 /* GTMOAuth2ViewTouch.xib in Sources */,
 				4F697FAB131C1A4100A5AB6A /* GTMOAuth2Authentication.m in Sources */,
 				4F697FAC131C1A4100A5AB6A /* GTMOAuth2SignIn.m in Sources */,
 				4F697FBE131C1A6800A5AB6A /* GTMOAuth2ViewControllerTouch.m in Sources */,
@@ -1225,10 +1223,6 @@
 		1DEB913F08733D840010E9CD /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ARCHS = (
-					ppc,
-					i386,
-				);
 				COPY_PHASE_STRIP = NO;
 				DEAD_CODE_STRIPPING = NO;
 				DEPLOYMENT_POSTPROCESSING = NO;
@@ -1241,6 +1235,7 @@
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				MACOSX_DEPLOYMENT_TARGET = "";
+				ONLY_ACTIVE_ARCH = YES;
 				OTHER_CFLAGS = "-DDEBUG=1";
 				SDKROOT = macosx;
 				WARNING_CFLAGS = (
@@ -1267,10 +1262,6 @@
 		1DEB914008733D840010E9CD /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ARCHS = (
-					ppc,
-					i386,
-				);
 				COPY_PHASE_STRIP = YES;
 				DEAD_CODE_STRIPPING = YES;
 				DEPLOYMENT_POSTPROCESSING = YES;
@@ -1308,7 +1299,6 @@
 		4F14A9E00B1276B70072EBB8 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
 				COMBINE_HIDPI_IMAGES = YES;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(value)",
@@ -1340,7 +1330,6 @@
 		4F14A9E10B1276B70072EBB8 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
 				COMBINE_HIDPI_IMAGES = YES;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(value)",
@@ -1372,7 +1361,6 @@
 		4F1AD9090B71606100DC0485 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
 				GCC_ENABLE_OBJC_GC = unsupported;
 				INFOPLIST_FILE = "Resources/DevTestTool-Info.plist";
 				MACOSX_DEPLOYMENT_TARGET = 10.7;
@@ -1383,7 +1371,6 @@
 		4F1AD90A0B71606100DC0485 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
 				GCC_ENABLE_OBJC_GC = unsupported;
 				INFOPLIST_FILE = "Resources/DevTestTool-Info.plist";
 				MACOSX_DEPLOYMENT_TARGET = 10.7;
@@ -1394,33 +1381,32 @@
 		4F1C6E101027B3CF00B46459 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
 				OTHER_CFLAGS = (
 					"$(inherited)",
 					"-DGTL_IPHONE=1",
 				);
 				PRODUCT_NAME = GTLTouchStaticLib;
 				SDKROOT = iphoneos;
+				WARNING_CFLAGS = "";
 			};
 			name = Debug;
 		};
 		4F1C6E111027B3CF00B46459 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
 				OTHER_CFLAGS = (
 					"$(inherited)",
 					"-DGTL_IPHONE=1",
 				);
 				PRODUCT_NAME = GTLTouchStaticLib;
 				SDKROOT = iphoneos;
+				WARNING_CFLAGS = "";
 			};
 			name = Release;
 		};
 		4F38F7120B66EF2C00B24B81 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ARCHS = "$(ARCHS_STANDARD_32_64_BIT)";
 				COMBINE_HIDPI_IMAGES = YES;
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
@@ -1444,7 +1430,6 @@
 		4F38F7130B66EF2C00B24B81 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ARCHS = "$(ARCHS_STANDARD_32_64_BIT)";
 				COMBINE_HIDPI_IMAGES = YES;
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;

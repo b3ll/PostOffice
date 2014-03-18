@@ -22,7 +22,6 @@
 		6601B60F1749E6B6003C1A88 /* SystemConfiguration.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6601B5A31749E2CE003C1A88 /* SystemConfiguration.framework */; };
 		6601B6101749E6BD003C1A88 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6601B5A51749E2D4003C1A88 /* CoreGraphics.framework */; };
 		6601B6131749E71F003C1A88 /* libGTLTouchStaticLib.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 6601B5361749DCD4003C1A88 /* libGTLTouchStaticLib.a */; };
-		6601B6161749EB0E003C1A88 /* GTMOAuth2ViewTouch.xib in Sources */ = {isa = PBXBuildFile; fileRef = 6601B6151749EAA6003C1A88 /* GTMOAuth2ViewTouch.xib */; };
 		6601B6171749EB13003C1A88 /* GTMOAuth2ViewTouch.xib in Sources */ = {isa = PBXBuildFile; fileRef = 6601B6151749EAA6003C1A88 /* GTMOAuth2ViewTouch.xib */; };
 /* End PBXBuildFile section */
 
@@ -137,9 +136,6 @@
 			isa = PBXGroup;
 			children = (
 				6601B6111749E70F003C1A88 /* iOSPushrPreferences.bundle */,
-				6601B5A51749E2D4003C1A88 /* CoreGraphics.framework */,
-				6601B5A31749E2CE003C1A88 /* SystemConfiguration.framework */,
-				6601B5A11749E2C4003C1A88 /* Security.framework */,
 				6601B0A31749DBA1003C1A88 /* iOSPushr */,
 				6601B5831749E263003C1A88 /* iOSPushrPreferences */,
 				6601B0A01749DBA1003C1A88 /* Frameworks */,
@@ -159,6 +155,9 @@
 		6601B0A01749DBA1003C1A88 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				6601B5A51749E2D4003C1A88 /* CoreGraphics.framework */,
+				6601B5A31749E2CE003C1A88 /* SystemConfiguration.framework */,
+				6601B5A11749E2C4003C1A88 /* Security.framework */,
 				6601B0A11749DBA1003C1A88 /* Foundation.framework */,
 				6601B57F1749E263003C1A88 /* UIKit.framework */,
 				6601B5811749E263003C1A88 /* Preferences.framework */,
@@ -509,7 +508,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				6601B6161749EB0E003C1A88 /* GTMOAuth2ViewTouch.xib in Sources */,
 				6601B0B21749DBA1003C1A88 /* iOSPushr.mm in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -608,10 +606,11 @@
 					"$(PROJECT_DIR)/**",
 				);
 				INSTALL_PATH = /Library/MobileSubstrate/DynamicLibraries;
+				ONLY_ACTIVE_ARCH = NO;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				iOSOpenDevBuildPackageOnAnyBuild = YES;
 				iOSOpenDevCopyOnBuild = NO;
-				iOSOpenDevDevice = 10.0.1.183;
+				iOSOpenDevDevice = 10.0.2.10;
 				iOSOpenDevInstallOnAnyBuild = YES;
 				iOSOpenDevInstallOnProfiling = YES;
 				iOSOpenDevRespringOnInstall = YES;
@@ -635,7 +634,7 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				iOSOpenDevBuildPackageOnAnyBuild = YES;
 				iOSOpenDevCopyOnBuild = NO;
-				iOSOpenDevDevice = 10.0.1.183;
+				iOSOpenDevDevice = 10.0.2.10;
 				iOSOpenDevInstallOnAnyBuild = YES;
 				iOSOpenDevInstallOnProfiling = YES;
 				iOSOpenDevRespringOnInstall = YES;

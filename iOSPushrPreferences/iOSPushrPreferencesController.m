@@ -24,22 +24,30 @@
 #define kPrefs_KeyName_Key @"key"
 #define kPrefs_KeyName_Defaults @"defaults"
 
-#define CLIENT_ID @"CLIENT_ID"
-#define CLIENT_SECRET @"CLIENT_SECRET"
+#define CLIENT_ID @""
+#define CLIENT_SECRET @""
 
 @implementation iOSPushrPreferencesController
 
 - (void)showGoogleSignin:(id)sender
 {
+    NSDictionary *prefs = [[NSDictionary alloc] initWithContentsOfFile:[kPrefs_Path stringByAppendingPathComponent:@"ca.adambell.postoffice.plist"]];
+    NSString *clientID = prefs[@"clientID"];
+    NSString *clientSecret = prefs[@"clientSecret"];
+    
+    if (clientID == nil || clientID.length == 0 || clientSecret == nil || clientSecret.length == 0) {
+        return;
+    }
+    
     GTMOAuth2Authentication *auth = [GTMOAuth2ViewControllerTouch authForGoogleFromKeychainForName:@"Pushr-iOS-OAuth"
-                                                                                          clientID:CLIENT_ID
-                                                                                      clientSecret:CLIENT_SECRET];
+                                                                                          clientID:clientID
+                                                                                      clientSecret:clientSecret];
     if (auth != nil)
     {
         
         GTMOAuth2ViewControllerTouch *vc = [[GTMOAuth2ViewControllerTouch alloc] initWithScope:@"https://www.googleapis.com/auth/glass.timeline"
-                                                                                      clientID:CLIENT_ID
-                                                                                  clientSecret:CLIENT_SECRET
+                                                                                      clientID:clientID
+                                                                                  clientSecret:clientSecret
                                                                               keychainItemName:@"Pushr-iOS-OAuth"
                                                                              completionHandler:^(GTMOAuth2ViewControllerTouch *viewController, GTMOAuth2Authentication *_auth, NSError *error) {
                                                                                  
